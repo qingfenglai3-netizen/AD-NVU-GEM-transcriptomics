@@ -1,0 +1,10 @@
+"compartment","model","n_donors","n_AD","n_CN","n_tests","n_FDR10","min_FDR","max_abs_diff_original_logFC"
+"Cerebrovascular","diagnosis_only",64,33,31,202,22,0.000851588407963181,0
+"Cerebrovascular","cohort_adjusted",64,33,31,202,8,0.000278748933784147,NA
+"Cerebrovascular","D1_APOE_sex_adjusted",54,29,25,202,0,0.536553387407494,NA
+"Astrocytes","diagnosis_only",66,33,33,2706,13,0.000165091335436954,0
+"Astrocytes","cohort_adjusted",66,33,33,2706,3,0.00484156438455094,NA
+"Astrocytes","D1_APOE_sex_adjusted",56,29,27,2706,0,0.106586777901372,NA
+"Microglia","diagnosis_only",66,33,33,1943,28,0.0456629014421446,0
+"Microglia","cohort_adjusted",66,33,33,1943,29,0.0454827760513688,NA
+"Microglia","D1_APOE_sex_adjusted",56,29,27,1943,0,0.153774280730995,NA

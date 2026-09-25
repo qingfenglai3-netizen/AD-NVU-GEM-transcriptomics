@@ -1,0 +1,11 @@
+geneset,mean_AD,mean_CN,delta,p,padj,subtype_program,display,bulk_direction,fdr_class
+Astrocytes_Reactive,0.985187449056793,0.946660806403405,0.0385266426533879,1.44889011608287e-12,1.44889011608287e-11,Astrocytes | Reactive,Astrocytes | Reactive,AD-enriched,FDR < 0.05
+Cerebrovascular cells_Venous,0.916099465201515,0.901658704930671,0.0144407602708438,3.01313641337393e-7,1.50656820668697e-6,Cerebrovascular | Venous,Cerebrovascular | Venous,AD-enriched,FDR < 0.05
+Astrocytes_Intermediate,0.653714559501849,0.615138819911486,0.038575739590363,5.13430520923325e-6,1.71143506974442e-5,Astrocytes | Intermediate,Astrocytes | Intermediate,AD-enriched,FDR < 0.05
+Microglia_DAM,0.701414987365676,0.674861003830109,0.0265539835355668,0.00196884627518805,0.00492211568797012,Microglia | DAM,Microglia | DAM,AD-enriched,FDR < 0.05
+Cerebrovascular cells_Arterial,0.37754887519411,0.386493386258954,-0.0089445110648434,0.00415055715376476,0.00830111430752952,Cerebrovascular | Arterial,Cerebrovascular | Arterial,CN-enriched,FDR < 0.05
+Cerebrovascular cells_Capillary,0.609922869197004,0.591086878803175,0.0188359903938289,0.00664327532016856,0.0110721255336143,Cerebrovascular | Capillary,Cerebrovascular | Capillary,AD-enriched,FDR < 0.05
+Cerebrovascular cells_Pericyte,0.642252543459005,0.631268367837475,0.0109841756215308,0.00791096943419991,0.0113013849059999,Cerebrovascular | Pericyte,Cerebrovascular | Pericyte,AD-enriched,FDR < 0.05
+Astrocytes_Homeostatic,0.856164741232522,0.875649499535055,-0.0194847583025326,0.052977961324661,0.0662224516558263,Astrocytes | Homeostatic,Astrocytes | Homeostatic,CN trend,FDR < 0.10
+Cerebrovascular cells_SMC,0.183036883889354,0.179867805259486,0.00316907862986762,0.248727040169191,0.248727040169191,Cerebrovascular | SMC,Cerebrovascular | SMC,Not significant,NS
+Microglia_Homeostatic,0.839335232487421,0.836010109657817,0.00332512282960473,0.224612235050699,0.248727040169191,Microglia | Homeostatic,Microglia | Homeostatic,Not significant,NS

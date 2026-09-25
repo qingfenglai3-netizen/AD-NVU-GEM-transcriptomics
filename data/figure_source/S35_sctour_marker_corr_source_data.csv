@@ -1,0 +1,10 @@
+﻿trajectory,trajectory_label,score,score_label,spearman_rho,p_value,n_cells,q_BH
+micro,Microglia,early_marker_score,early marker score,-0.0702036482692553,9.597951931530136e-28,24123,1.4396927897295204e-27
+micro,Microglia,late_marker_score,late marker score,0.550114900294271,0.0,24123,0.0
+micro,Microglia,progression_marker_score,progression score,0.5348432310681289,0.0,24123,0.0
+astro,Astrocytes,early_marker_score,early marker score,0.065492946534891,1.7525020332537687e-31,31701,3.1545036598567837e-31
+astro,Astrocytes,late_marker_score,late marker score,0.6317248441640116,0.0,31701,0.0
+astro,Astrocytes,progression_marker_score,progression score,0.1204712951894734,8.653938105776852e-103,31701,1.947136073799792e-102
+endo,Capillaries,early_marker_score,early marker score,,,824,1.0
+endo,Capillaries,late_marker_score,late marker score,0.3138974167136237,2.676393337582101e-20,824,3.0109425047798644e-20
+endo,Capillaries,progression_marker_score,progression score,0.3138974167136237,2.676393337582101e-20,824,3.0109425047798644e-20

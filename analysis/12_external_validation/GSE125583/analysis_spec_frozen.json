@@ -1,0 +1,13 @@
+{
+  "frozen_at": "2026-09-25T03:56:16.350530+08:00",
+  "cohort": "GSE125583 fusiform gyrus bulk RNAseq",
+  "primary_population": "All 289 unique case IDs; samples marked repeated in GSE95587 excluded in prespecified subset sensitivity (158 AD/42 CN), no joint analysis of GSE95587",
+  "features": "All 18 genes in published discovery_GSE132903_labelblind_mean_features.csv in original order; no feature/model selection",
+  "model": "StandardScaler fitted only on discovery; LogisticRegression L2 C=1 solver=liblinear max_iter=2000 random_state=20260608, sklearn1.5.2",
+  "primary": "Fit discovery microarray model and apply to log2(nRPKM+1) using discovery scaler; AUC on decision_function, probabilities retained, no calibration claim",
+  "secondary": "Apply same learned coefficients to within-RNAseq-cohort per-gene z scores of log2(nRPKM+1); labels unused in adaptation; cohort-adapted transductive sensitivity, not strict frozen-preprocessing validation",
+  "uncertainty": "2000 stratified donor bootstraps percentile95%, random_state20260925; no orientation flip; both results reported",
+  "GEM": "log2(nRPKM+1) AD-CN mean difference; Welch CI/p, MannWhitney p; secondary HC3 OLS adjusted age+sex complete cases; unadjusted result primary, no significance-based selection",
+  "quality": "Unique donor/GSM IDs, all18+GEM Entrez mappings, complete finite nonnegative expression/counts; exclusions logged; no outcome-based outlier removal",
+  "scope": "Exploratory additional cross-platform and region-shift evaluation; no manuscript/GitHub writes"
+}

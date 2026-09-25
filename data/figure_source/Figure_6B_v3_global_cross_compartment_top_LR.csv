@@ -1,0 +1,13 @@
+source,target,ligand,receptor,communication_strength_AD,communication_strength_CN,delta_AD_vs_CN,source_n_AD,source_n_CN,target_n_AD,target_n_CN,min_group_cell_count,source_family,target_family,lr_pair,is_cross_family,direction,label
+Astro_Reactive,CapEC_ActHigh,TNC,ITGA9_ITGB1,0.0,4.46613534446123,-4.46613534446123,1387,1200,134,124,124,Astrocyte,Vascular,TNC - ITGA9/ITGB1,True,CN-enriched,Reactive astro>Cap high | TNC - ITGA9/ITGB1
+Astro_Reactive,Cerebrovascular_Pericyte,TNC,ITGA8_ITGB1,0.0,3.89385090215348,-3.89385090215348,1387,1200,516,449,449,Astrocyte,Vascular,TNC - ITGA8/ITGB1,True,CN-enriched,Reactive astro>Pericyte | TNC - ITGA8/ITGB1
+Astro_Reactive,CapEC_ActHigh,LAMA1,ITGA9_ITGB1,0.0,3.8379047987877,-3.8379047987877,1387,1200,134,124,124,Astrocyte,Vascular,LAMA1 - ITGA9/ITGB1,True,CN-enriched,Reactive astro>Cap high | LAMA1 - ITGA9/ITGB1
+Astro_Intermediate,CapEC_ActMid,VEGFC,FLT1,0.0,3.69338493318783,-3.69338493318783,5602,5852,154,112,112,Astrocyte,Vascular,VEGFC - FLT1,True,CN-enriched,Intermediate astro>Cap mid | VEGFC - FLT1
+Astro_Intermediate,CapEC_ActHigh,VEGFC,FLT1,0.0,3.5768090131608,-3.5768090131608,5602,5852,134,124,124,Astrocyte,Vascular,VEGFC - FLT1,True,CN-enriched,Intermediate astro>Cap high | VEGFC - FLT1
+Astro_Intermediate,CapEC_ActMid,TGFB2,ACVR1C_TGFBR2,4.04703697732985,0.0,4.04703697732985,5602,5852,154,112,112,Astrocyte,Vascular,TGFB2 - ACVR1C/TGFBR2,True,AD-enriched,Intermediate astro>Cap mid | TGFB2 - ACVR1C/TGFBR2
+Cerebrovascular_Pericyte,Astro_Reactive,COL1A1,CD44,3.16870870219874,0.0,3.16870870219874,516,449,1387,1200,449,Vascular,Astrocyte,COL1A1 - CD44,True,AD-enriched,Pericyte>Reactive astro | COL1A1 - CD44
+CapEC_ActLow,Astro_Reactive,HBEGF,CD44,2.98143160665996,0.0,2.98143160665996,129,129,1387,1200,129,Vascular,Astrocyte,HBEGF - CD44,True,AD-enriched,Cap low>Reactive astro | HBEGF - CD44
+Inhibitory,CapEC_ActHigh,SLIT2,ROBO4,6.45571310265015,3.47642517811368,2.97928792453647,18727,18751,134,124,124,Neuron,Vascular,SLIT2 - ROBO4,True,AD-enriched,Inhibitory>Cap high | SLIT2 - ROBO4
+CapEC_ActHigh,Excitatory,CXCL10,DPP4,2.95544913713073,0.0,2.95544913713073,134,124,62331,65392,124,Vascular,Neuron,CXCL10 - DPP4,True,AD-enriched,Cap high>Excitatory | CXCL10 - DPP4
+Micro_DAM,CapEC_ActMid,TGFB1,ACVR1C_TGFBR2,2.87124744157456,0.0,2.87124744157456,10413,8260,154,112,112,Microglia,Vascular,TGFB1 - ACVR1C/TGFBR2,True,AD-enriched,DAM micro>Cap mid | TGFB1 - ACVR1C/TGFBR2
+Astro_Reactive,CapEC_ActMid,TGFB2,ACVR1C_TGFBR2,2.74952752953763,0.0,2.74952752953763,1387,1200,154,112,112,Astrocyte,Vascular,TGFB2 - ACVR1C/TGFBR2,True,AD-enriched,Reactive astro>Cap mid | TGFB2 - ACVR1C/TGFBR2

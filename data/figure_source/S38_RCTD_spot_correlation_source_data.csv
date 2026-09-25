@@ -1,0 +1,197 @@
+﻿Var1,Var2,Freq,Var1_label,Var2_label
+Astro_Homeostatic,Astro_Homeostatic,1.0,Homeostatic astrocytes,Homeostatic astrocytes
+Astro_Intermediate,Astro_Homeostatic,-0.122851906247656,Intermediate astrocytes,Homeostatic astrocytes
+Astro_Reactive,Astro_Homeostatic,-0.393371206009433,Reactive astrocytes,Homeostatic astrocytes
+Endo_Arterial,Astro_Homeostatic,-0.0249681259529866,Arterial EC,Homeostatic astrocytes
+Endo_Capillary,Astro_Homeostatic,0.120747832023567,Capillary EC,Homeostatic astrocytes
+Endo_Pericyte,Astro_Homeostatic,0.166756821650106,Pericytes,Homeostatic astrocytes
+Endo_SMC,Astro_Homeostatic,-0.145447294840282,Vascular SMC,Homeostatic astrocytes
+Endo_Venous,Astro_Homeostatic,-0.008864668002922,Venous EC,Homeostatic astrocytes
+Excitatory,Astro_Homeostatic,0.118568141767961,Excitatory,Homeostatic astrocytes
+Inhibitory,Astro_Homeostatic,0.0131945671020242,Inhibitory,Homeostatic astrocytes
+Micro_DAM,Astro_Homeostatic,-0.0690086206536381,DAM-like microglia,Homeostatic astrocytes
+Micro_Homeostatic,Astro_Homeostatic,-0.112668846083507,Homeostatic microglia,Homeostatic astrocytes
+Oligodendrocytes,Astro_Homeostatic,-0.483465954810429,Oligodendrocytes,Homeostatic astrocytes
+OPCs,Astro_Homeostatic,-0.108369961097939,OPCs,Homeostatic astrocytes
+Astro_Homeostatic,Astro_Intermediate,-0.122851906247656,Homeostatic astrocytes,Intermediate astrocytes
+Astro_Intermediate,Astro_Intermediate,1.0,Intermediate astrocytes,Intermediate astrocytes
+Astro_Reactive,Astro_Intermediate,-0.0577336485267,Reactive astrocytes,Intermediate astrocytes
+Endo_Arterial,Astro_Intermediate,0.0186847613408479,Arterial EC,Intermediate astrocytes
+Endo_Capillary,Astro_Intermediate,0.0472946342695941,Capillary EC,Intermediate astrocytes
+Endo_Pericyte,Astro_Intermediate,-0.0128983980452268,Pericytes,Intermediate astrocytes
+Endo_SMC,Astro_Intermediate,0.0758471698875904,Vascular SMC,Intermediate astrocytes
+Endo_Venous,Astro_Intermediate,0.0227850543685925,Venous EC,Intermediate astrocytes
+Excitatory,Astro_Intermediate,-0.116644196527681,Excitatory,Intermediate astrocytes
+Inhibitory,Astro_Intermediate,0.0305606320493313,Inhibitory,Intermediate astrocytes
+Micro_DAM,Astro_Intermediate,0.0206811174029991,DAM-like microglia,Intermediate astrocytes
+Micro_Homeostatic,Astro_Intermediate,-0.0174268736915319,Homeostatic microglia,Intermediate astrocytes
+Oligodendrocytes,Astro_Intermediate,-0.0192300175203388,Oligodendrocytes,Intermediate astrocytes
+OPCs,Astro_Intermediate,0.0051877230139216,OPCs,Intermediate astrocytes
+Astro_Homeostatic,Astro_Reactive,-0.393371206009433,Homeostatic astrocytes,Reactive astrocytes
+Astro_Intermediate,Astro_Reactive,-0.0577336485267,Intermediate astrocytes,Reactive astrocytes
+Astro_Reactive,Astro_Reactive,1.0,Reactive astrocytes,Reactive astrocytes
+Endo_Arterial,Astro_Reactive,0.0381745653106462,Arterial EC,Reactive astrocytes
+Endo_Capillary,Astro_Reactive,0.0625805108291193,Capillary EC,Reactive astrocytes
+Endo_Pericyte,Astro_Reactive,-0.0533066955862135,Pericytes,Reactive astrocytes
+Endo_SMC,Astro_Reactive,0.282798322309702,Vascular SMC,Reactive astrocytes
+Endo_Venous,Astro_Reactive,0.0394841402911261,Venous EC,Reactive astrocytes
+Excitatory,Astro_Reactive,-0.594151089484515,Excitatory,Reactive astrocytes
+Inhibitory,Astro_Reactive,0.0787933168087957,Inhibitory,Reactive astrocytes
+Micro_DAM,Astro_Reactive,0.195184352892259,DAM-like microglia,Reactive astrocytes
+Micro_Homeostatic,Astro_Reactive,0.0672287463466793,Homeostatic microglia,Reactive astrocytes
+Oligodendrocytes,Astro_Reactive,0.347706893064062,Oligodendrocytes,Reactive astrocytes
+OPCs,Astro_Reactive,0.0838501714885522,OPCs,Reactive astrocytes
+Astro_Homeostatic,Endo_Arterial,-0.0249681259529866,Homeostatic astrocytes,Arterial EC
+Astro_Intermediate,Endo_Arterial,0.0186847613408479,Intermediate astrocytes,Arterial EC
+Astro_Reactive,Endo_Arterial,0.0381745653106462,Reactive astrocytes,Arterial EC
+Endo_Arterial,Endo_Arterial,1.0,Arterial EC,Arterial EC
+Endo_Capillary,Endo_Arterial,-0.0156603374372263,Capillary EC,Arterial EC
+Endo_Pericyte,Endo_Arterial,-0.0387900221577569,Pericytes,Arterial EC
+Endo_SMC,Endo_Arterial,0.0347328071599729,Vascular SMC,Arterial EC
+Endo_Venous,Endo_Arterial,0.0229088930636567,Venous EC,Arterial EC
+Excitatory,Endo_Arterial,-0.0736082857488565,Excitatory,Arterial EC
+Inhibitory,Endo_Arterial,0.0611601566896757,Inhibitory,Arterial EC
+Micro_DAM,Endo_Arterial,-0.0327514609676246,DAM-like microglia,Arterial EC
+Micro_Homeostatic,Endo_Arterial,0.0100901700763982,Homeostatic microglia,Arterial EC
+Oligodendrocytes,Endo_Arterial,0.0011395016213667,Oligodendrocytes,Arterial EC
+OPCs,Endo_Arterial,0.0401283220860275,OPCs,Arterial EC
+Astro_Homeostatic,Endo_Capillary,0.120747832023567,Homeostatic astrocytes,Capillary EC
+Astro_Intermediate,Endo_Capillary,0.0472946342695941,Intermediate astrocytes,Capillary EC
+Astro_Reactive,Endo_Capillary,0.0625805108291193,Reactive astrocytes,Capillary EC
+Endo_Arterial,Endo_Capillary,-0.0156603374372263,Arterial EC,Capillary EC
+Endo_Capillary,Endo_Capillary,1.0,Capillary EC,Capillary EC
+Endo_Pericyte,Endo_Capillary,-0.273060791967117,Pericytes,Capillary EC
+Endo_SMC,Endo_Capillary,0.17252216110356,Vascular SMC,Capillary EC
+Endo_Venous,Endo_Capillary,0.0351580154941765,Venous EC,Capillary EC
+Excitatory,Endo_Capillary,-0.0657112245245038,Excitatory,Capillary EC
+Inhibitory,Endo_Capillary,-0.0051600959989348,Inhibitory,Capillary EC
+Micro_DAM,Endo_Capillary,0.021183273973035,DAM-like microglia,Capillary EC
+Micro_Homeostatic,Endo_Capillary,-0.0154344294049451,Homeostatic microglia,Capillary EC
+Oligodendrocytes,Endo_Capillary,-0.238904327126896,Oligodendrocytes,Capillary EC
+OPCs,Endo_Capillary,0.0116984000203778,OPCs,Capillary EC
+Astro_Homeostatic,Endo_Pericyte,0.166756821650106,Homeostatic astrocytes,Pericytes
+Astro_Intermediate,Endo_Pericyte,-0.0128983980452268,Intermediate astrocytes,Pericytes
+Astro_Reactive,Endo_Pericyte,-0.0533066955862135,Reactive astrocytes,Pericytes
+Endo_Arterial,Endo_Pericyte,-0.0387900221577569,Arterial EC,Pericytes
+Endo_Capillary,Endo_Pericyte,-0.273060791967117,Capillary EC,Pericytes
+Endo_Pericyte,Endo_Pericyte,1.0,Pericytes,Pericytes
+Endo_SMC,Endo_Pericyte,-0.731500605358783,Vascular SMC,Pericytes
+Endo_Venous,Endo_Pericyte,0.0385528272979976,Venous EC,Pericytes
+Excitatory,Endo_Pericyte,-0.146580572768281,Excitatory,Pericytes
+Inhibitory,Endo_Pericyte,0.010990482442809,Inhibitory,Pericytes
+Micro_DAM,Endo_Pericyte,0.0964006339437187,DAM-like microglia,Pericytes
+Micro_Homeostatic,Endo_Pericyte,-0.0337202600877226,Homeostatic microglia,Pericytes
+Oligodendrocytes,Endo_Pericyte,0.0164015604316247,Oligodendrocytes,Pericytes
+OPCs,Endo_Pericyte,-0.0387526303059012,OPCs,Pericytes
+Astro_Homeostatic,Endo_SMC,-0.145447294840282,Homeostatic astrocytes,Vascular SMC
+Astro_Intermediate,Endo_SMC,0.0758471698875904,Intermediate astrocytes,Vascular SMC
+Astro_Reactive,Endo_SMC,0.282798322309702,Reactive astrocytes,Vascular SMC
+Endo_Arterial,Endo_SMC,0.0347328071599729,Arterial EC,Vascular SMC
+Endo_Capillary,Endo_SMC,0.17252216110356,Capillary EC,Vascular SMC
+Endo_Pericyte,Endo_SMC,-0.731500605358783,Pericytes,Vascular SMC
+Endo_SMC,Endo_SMC,1.0,Vascular SMC,Vascular SMC
+Endo_Venous,Endo_SMC,-0.0202170933326625,Venous EC,Vascular SMC
+Excitatory,Endo_SMC,-0.274458452294129,Excitatory,Vascular SMC
+Inhibitory,Endo_SMC,0.0762720537105638,Inhibitory,Vascular SMC
+Micro_DAM,Endo_SMC,0.0855684249483876,DAM-like microglia,Vascular SMC
+Micro_Homeostatic,Endo_SMC,-0.0183205931027989,Homeostatic microglia,Vascular SMC
+Oligodendrocytes,Endo_SMC,0.0418299627335296,Oligodendrocytes,Vascular SMC
+OPCs,Endo_SMC,0.060227371344474,OPCs,Vascular SMC
+Astro_Homeostatic,Endo_Venous,-0.008864668002922,Homeostatic astrocytes,Venous EC
+Astro_Intermediate,Endo_Venous,0.0227850543685925,Intermediate astrocytes,Venous EC
+Astro_Reactive,Endo_Venous,0.0394841402911261,Reactive astrocytes,Venous EC
+Endo_Arterial,Endo_Venous,0.0229088930636567,Arterial EC,Venous EC
+Endo_Capillary,Endo_Venous,0.0351580154941765,Capillary EC,Venous EC
+Endo_Pericyte,Endo_Venous,0.0385528272979976,Pericytes,Venous EC
+Endo_SMC,Endo_Venous,-0.0202170933326625,Vascular SMC,Venous EC
+Endo_Venous,Endo_Venous,1.0,Venous EC,Venous EC
+Excitatory,Endo_Venous,-0.111760738446513,Excitatory,Venous EC
+Inhibitory,Endo_Venous,0.0259619390682765,Inhibitory,Venous EC
+Micro_DAM,Endo_Venous,-0.023696911261612,DAM-like microglia,Venous EC
+Micro_Homeostatic,Endo_Venous,0.012859495226329,Homeostatic microglia,Venous EC
+Oligodendrocytes,Endo_Venous,-0.0002234546354653,Oligodendrocytes,Venous EC
+OPCs,Endo_Venous,0.0686617763559764,OPCs,Venous EC
+Astro_Homeostatic,Excitatory,0.118568141767961,Homeostatic astrocytes,Excitatory
+Astro_Intermediate,Excitatory,-0.116644196527681,Intermediate astrocytes,Excitatory
+Astro_Reactive,Excitatory,-0.594151089484515,Reactive astrocytes,Excitatory
+Endo_Arterial,Excitatory,-0.0736082857488565,Arterial EC,Excitatory
+Endo_Capillary,Excitatory,-0.0657112245245038,Capillary EC,Excitatory
+Endo_Pericyte,Excitatory,-0.146580572768281,Pericytes,Excitatory
+Endo_SMC,Excitatory,-0.274458452294129,Vascular SMC,Excitatory
+Endo_Venous,Excitatory,-0.111760738446513,Venous EC,Excitatory
+Excitatory,Excitatory,1.0,Excitatory,Excitatory
+Inhibitory,Excitatory,-0.208029130750277,Inhibitory,Excitatory
+Micro_DAM,Excitatory,-0.303354183147235,DAM-like microglia,Excitatory
+Micro_Homeostatic,Excitatory,-0.104940691562548,Homeostatic microglia,Excitatory
+Oligodendrocytes,Excitatory,-0.665526699022518,Oligodendrocytes,Excitatory
+OPCs,Excitatory,-0.208130088963867,OPCs,Excitatory
+Astro_Homeostatic,Inhibitory,0.0131945671020242,Homeostatic astrocytes,Inhibitory
+Astro_Intermediate,Inhibitory,0.0305606320493313,Intermediate astrocytes,Inhibitory
+Astro_Reactive,Inhibitory,0.0787933168087957,Reactive astrocytes,Inhibitory
+Endo_Arterial,Inhibitory,0.0611601566896757,Arterial EC,Inhibitory
+Endo_Capillary,Inhibitory,-0.0051600959989348,Capillary EC,Inhibitory
+Endo_Pericyte,Inhibitory,0.010990482442809,Pericytes,Inhibitory
+Endo_SMC,Inhibitory,0.0762720537105638,Vascular SMC,Inhibitory
+Endo_Venous,Inhibitory,0.0259619390682765,Venous EC,Inhibitory
+Excitatory,Inhibitory,-0.208029130750277,Excitatory,Inhibitory
+Inhibitory,Inhibitory,1.0,Inhibitory,Inhibitory
+Micro_DAM,Inhibitory,0.0375712197581791,DAM-like microglia,Inhibitory
+Micro_Homeostatic,Inhibitory,-0.0161187902838206,Homeostatic microglia,Inhibitory
+Oligodendrocytes,Inhibitory,-0.0288988390387775,Oligodendrocytes,Inhibitory
+OPCs,Inhibitory,0.0140768826101026,OPCs,Inhibitory
+Astro_Homeostatic,Micro_DAM,-0.0690086206536381,Homeostatic astrocytes,DAM-like microglia
+Astro_Intermediate,Micro_DAM,0.0206811174029991,Intermediate astrocytes,DAM-like microglia
+Astro_Reactive,Micro_DAM,0.195184352892259,Reactive astrocytes,DAM-like microglia
+Endo_Arterial,Micro_DAM,-0.0327514609676246,Arterial EC,DAM-like microglia
+Endo_Capillary,Micro_DAM,0.021183273973035,Capillary EC,DAM-like microglia
+Endo_Pericyte,Micro_DAM,0.0964006339437187,Pericytes,DAM-like microglia
+Endo_SMC,Micro_DAM,0.0855684249483876,Vascular SMC,DAM-like microglia
+Endo_Venous,Micro_DAM,-0.023696911261612,Venous EC,DAM-like microglia
+Excitatory,Micro_DAM,-0.303354183147235,Excitatory,DAM-like microglia
+Inhibitory,Micro_DAM,0.0375712197581791,Inhibitory,DAM-like microglia
+Micro_DAM,Micro_DAM,1.0,DAM-like microglia,DAM-like microglia
+Micro_Homeostatic,Micro_DAM,-0.293355815784752,Homeostatic microglia,DAM-like microglia
+Oligodendrocytes,Micro_DAM,0.0331712575221046,Oligodendrocytes,DAM-like microglia
+OPCs,Micro_DAM,0.0108612025114065,OPCs,DAM-like microglia
+Astro_Homeostatic,Micro_Homeostatic,-0.112668846083507,Homeostatic astrocytes,Homeostatic microglia
+Astro_Intermediate,Micro_Homeostatic,-0.0174268736915319,Intermediate astrocytes,Homeostatic microglia
+Astro_Reactive,Micro_Homeostatic,0.0672287463466793,Reactive astrocytes,Homeostatic microglia
+Endo_Arterial,Micro_Homeostatic,0.0100901700763982,Arterial EC,Homeostatic microglia
+Endo_Capillary,Micro_Homeostatic,-0.0154344294049451,Capillary EC,Homeostatic microglia
+Endo_Pericyte,Micro_Homeostatic,-0.0337202600877226,Pericytes,Homeostatic microglia
+Endo_SMC,Micro_Homeostatic,-0.0183205931027989,Vascular SMC,Homeostatic microglia
+Endo_Venous,Micro_Homeostatic,0.012859495226329,Venous EC,Homeostatic microglia
+Excitatory,Micro_Homeostatic,-0.104940691562548,Excitatory,Homeostatic microglia
+Inhibitory,Micro_Homeostatic,-0.0161187902838206,Inhibitory,Homeostatic microglia
+Micro_DAM,Micro_Homeostatic,-0.293355815784752,DAM-like microglia,Homeostatic microglia
+Micro_Homeostatic,Micro_Homeostatic,1.0,Homeostatic microglia,Homeostatic microglia
+Oligodendrocytes,Micro_Homeostatic,0.116631322750389,Oligodendrocytes,Homeostatic microglia
+OPCs,Micro_Homeostatic,0.0533465390344793,OPCs,Homeostatic microglia
+Astro_Homeostatic,Oligodendrocytes,-0.483465954810429,Homeostatic astrocytes,Oligodendrocytes
+Astro_Intermediate,Oligodendrocytes,-0.0192300175203388,Intermediate astrocytes,Oligodendrocytes
+Astro_Reactive,Oligodendrocytes,0.347706893064062,Reactive astrocytes,Oligodendrocytes
+Endo_Arterial,Oligodendrocytes,0.0011395016213667,Arterial EC,Oligodendrocytes
+Endo_Capillary,Oligodendrocytes,-0.238904327126896,Capillary EC,Oligodendrocytes
+Endo_Pericyte,Oligodendrocytes,0.0164015604316247,Pericytes,Oligodendrocytes
+Endo_SMC,Oligodendrocytes,0.0418299627335296,Vascular SMC,Oligodendrocytes
+Endo_Venous,Oligodendrocytes,-0.0002234546354653,Venous EC,Oligodendrocytes
+Excitatory,Oligodendrocytes,-0.665526699022518,Excitatory,Oligodendrocytes
+Inhibitory,Oligodendrocytes,-0.0288988390387775,Inhibitory,Oligodendrocytes
+Micro_DAM,Oligodendrocytes,0.0331712575221046,DAM-like microglia,Oligodendrocytes
+Micro_Homeostatic,Oligodendrocytes,0.116631322750389,Homeostatic microglia,Oligodendrocytes
+Oligodendrocytes,Oligodendrocytes,1.0,Oligodendrocytes,Oligodendrocytes
+OPCs,Oligodendrocytes,0.116866209757066,OPCs,Oligodendrocytes
+Astro_Homeostatic,OPCs,-0.108369961097939,Homeostatic astrocytes,OPCs
+Astro_Intermediate,OPCs,0.0051877230139216,Intermediate astrocytes,OPCs
+Astro_Reactive,OPCs,0.0838501714885522,Reactive astrocytes,OPCs
+Endo_Arterial,OPCs,0.0401283220860275,Arterial EC,OPCs
+Endo_Capillary,OPCs,0.0116984000203778,Capillary EC,OPCs
+Endo_Pericyte,OPCs,-0.0387526303059012,Pericytes,OPCs
+Endo_SMC,OPCs,0.060227371344474,Vascular SMC,OPCs
+Endo_Venous,OPCs,0.0686617763559764,Venous EC,OPCs
+Excitatory,OPCs,-0.208130088963867,Excitatory,OPCs
+Inhibitory,OPCs,0.0140768826101026,Inhibitory,OPCs
+Micro_DAM,OPCs,0.0108612025114065,DAM-like microglia,OPCs
+Micro_Homeostatic,OPCs,0.0533465390344793,Homeostatic microglia,OPCs
+Oligodendrocytes,OPCs,0.116866209757066,Oligodendrocytes,OPCs
+OPCs,OPCs,1.0,OPCs,OPCs

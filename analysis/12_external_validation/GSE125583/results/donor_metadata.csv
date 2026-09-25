@@ -1,0 +1,290 @@
+sample_id,tissue,case id,diagnosis,age,Sex,braak.score,repeated_GSE95587,group,sex
+GSM3577568,fusiform gyrus,04-45,Alzheimer's disease,93.0,F,IV,NA,AD,F
+GSM3577569,fusiform gyrus,11-73,Alzheimer's disease,77.0,M,VI,NA,AD,M
+GSM3577570,fusiform gyrus,10-11,Alzheimer's disease,92.0,M,IV,NA,AD,M
+GSM3577571,fusiform gyrus,11-20,Alzheimer's disease,85.0,M,IV,GSM2516824,AD,M
+GSM3577572,fusiform gyrus,11-92,Alzheimer's disease,83.0,M,IV,NA,AD,M
+GSM3577573,fusiform gyrus,08-34,Alzheimer's disease,85.0,M,IV,NA,AD,M
+GSM3577574,fusiform gyrus,11-11,Alzheimer's disease,93.0,F,IV,GSM2516916,AD,F
+GSM3577575,fusiform gyrus,11-01,Alzheimer's disease,96.0,M,IV,GSM2516889,AD,M
+GSM3577576,fusiform gyrus,05-23,Alzheimer's disease,96.0,F,IV,GSM2516908,AD,F
+GSM3577577,fusiform gyrus,03-34,Alzheimer's disease,88.0,F,IV,GSM2516841,AD,F
+GSM3577578,fusiform gyrus,12-58,Alzheimer's disease,97.0,M,IV,NA,AD,M
+GSM3577579,fusiform gyrus,05-15,Alzheimer's disease,79.0,M,IV,NA,AD,M
+GSM3577580,fusiform gyrus,08-40,control,76.0,M,I,GSM2516900,CN,M
+GSM3577581,fusiform gyrus,11-27,Alzheimer's disease,89.0,M,V,GSM2516880,AD,M
+GSM3577582,fusiform gyrus,09-14,Alzheimer's disease,89.0,F,IV,GSM2516870,AD,F
+GSM3577583,fusiform gyrus,04-30,control,78.0,F,IV,GSM2516871,CN,F
+GSM3577584,fusiform gyrus,03-28,control,80.0,M,I,GSM2516831,CN,M
+GSM3577585,fusiform gyrus,06-04,Alzheimer's disease,85.0,F,II,NA,AD,F
+GSM3577586,fusiform gyrus,11-23,Alzheimer's disease,64.0,F,VI,NA,AD,F
+GSM3577587,fusiform gyrus,10-26,control,95.0,F,III,NA,CN,F
+GSM3577588,fusiform gyrus,12-37,Alzheimer's disease,82.0,M,VI,NA,AD,M
+GSM3577589,fusiform gyrus,04-38,control,83.0,F,II,GSM2516838,CN,F
+GSM3577590,fusiform gyrus,04-02,Alzheimer's disease,91.0,M,V,NA,AD,M
+GSM3577591,fusiform gyrus,13-41,Alzheimer's disease,77.0,M,IV,NA,AD,M
+GSM3577592,fusiform gyrus,10-47,Alzheimer's disease,96.0,F,V,NA,AD,F
+GSM3577593,fusiform gyrus,10-45,Alzheimer's disease,80.0,M,III,NA,AD,M
+GSM3577594,fusiform gyrus,12-57,Alzheimer's disease,82.0,F,VI,NA,AD,F
+GSM3577595,fusiform gyrus,05-16,control,82.0,M,III,GSM2516809,CN,M
+GSM3577596,fusiform gyrus,09-03,Alzheimer's disease,90.0,M,IV,NA,AD,M
+GSM3577597,fusiform gyrus,09-18,Alzheimer's disease,80.0,M,V,GSM2516810,AD,M
+GSM3577598,fusiform gyrus,02-05,Alzheimer's disease,86.0,M,III,NA,AD,M
+GSM3577599,fusiform gyrus,06-15,control,87.0,F,III,NA,CN,F
+GSM3577600,fusiform gyrus,11-35,Alzheimer's disease,93.0,F,V,NA,AD,F
+GSM3577601,fusiform gyrus,07-45,Alzheimer's disease,88.0,M,IV,NA,AD,M
+GSM3577602,fusiform gyrus,08-82,Alzheimer's disease,86.0,M,II,NA,AD,M
+GSM3577603,fusiform gyrus,01-46,control,90.0,F,III,NA,CN,F
+GSM3577604,fusiform gyrus,11-43,control,99.0,F,IV,NA,CN,F
+GSM3577605,fusiform gyrus,01-49,Alzheimer's disease,,NA,NA,NA,AD,
+GSM3577606,fusiform gyrus,11-19,Alzheimer's disease,82.0,M,IV,GSM2516896,AD,M
+GSM3577607,fusiform gyrus,13-07,Alzheimer's disease,88.0,F,IV,NA,AD,F
+GSM3577608,fusiform gyrus,10-55,Alzheimer's disease,85.0,M,IV,GSM2516891,AD,M
+GSM3577609,fusiform gyrus,12-69,Alzheimer's disease,65.0,F,III,NA,AD,F
+GSM3577610,fusiform gyrus,09-42,Alzheimer's disease,85.0,M,VI,GSM2516881,AD,M
+GSM3577611,fusiform gyrus,06-46,Alzheimer's disease,86.0,M,IV,NA,AD,M
+GSM3577612,fusiform gyrus,10-67,Alzheimer's disease,78.0,M,IV,GSM2516815,AD,M
+GSM3577613,fusiform gyrus,13-01,Alzheimer's disease,74.0,M,IV,NA,AD,M
+GSM3577614,fusiform gyrus,02-24,control,87.0,M,III,GSM2516868,CN,M
+GSM3577615,fusiform gyrus,10-87,Alzheimer's disease,103.0,F,IV,GSM2516832,AD,F
+GSM3577616,fusiform gyrus,10-44,Alzheimer's disease,82.0,F,VI,NA,AD,F
+GSM3577617,fusiform gyrus,04-16,Alzheimer's disease,77.0,F,VI,NA,AD,F
+GSM3577618,fusiform gyrus,00-17,Alzheimer's disease,86.0,M,III,NA,AD,M
+GSM3577619,fusiform gyrus,06-60,Alzheimer's disease,96.0,F,IV,GSM2516858,AD,F
+GSM3577620,fusiform gyrus,11-13,Alzheimer's disease,90.0,M,IV,NA,AD,M
+GSM3577621,fusiform gyrus,03-57,Alzheimer's disease,79.0,M,IV,GSM2516879,AD,M
+GSM3577622,fusiform gyrus,03-10,control,89.0,M,IV,NA,CN,M
+GSM3577623,fusiform gyrus,07-39,Alzheimer's disease,78.0,M,III,NA,AD,M
+GSM3577624,fusiform gyrus,07-26,control,94.0,M,IV,NA,CN,M
+GSM3577625,fusiform gyrus,00-12,Alzheimer's disease,86.0,F,V,GSM2516839,AD,F
+GSM3577626,fusiform gyrus,11-97,Alzheimer's disease,86.0,F,V,NA,AD,F
+GSM3577627,fusiform gyrus,09-02,Alzheimer's disease,86.0,F,V,NA,AD,F
+GSM3577628,fusiform gyrus,03-32,Alzheimer's disease,83.0,M,V,NA,AD,M
+GSM3577629,fusiform gyrus,02-04,control,80.0,F,III,GSM2516849,CN,F
+GSM3577630,fusiform gyrus,99-21,Alzheimer's disease,86.0,M,IV,NA,AD,M
+GSM3577631,fusiform gyrus,13-26,Alzheimer's disease,85.0,M,V,NA,AD,M
+GSM3577632,fusiform gyrus,11-21,Alzheimer's disease,88.0,F,VI,GSM2516921,AD,F
+GSM3577633,fusiform gyrus,04-33,Alzheimer's disease,70.0,M,V,NA,AD,M
+GSM3577634,fusiform gyrus,10-04,Alzheimer's disease,81.0,M,III,NA,AD,M
+GSM3577635,fusiform gyrus,09-34,control,80.0,M,III,GSM2516913,CN,M
+GSM3577636,fusiform gyrus,05-57,Alzheimer's disease,97.0,F,V,GSM2516806,AD,F
+GSM3577637,fusiform gyrus,03-58,control,85.0,F,III,NA,CN,F
+GSM3577638,fusiform gyrus,08-51,Alzheimer's disease,77.0,M,IV,NA,AD,M
+GSM3577639,fusiform gyrus,12-24,Alzheimer's disease,91.0,F,V,NA,AD,F
+GSM3577640,fusiform gyrus,05-43,Alzheimer's disease,89.0,M,III,NA,AD,M
+GSM3577641,fusiform gyrus,08-77,control,91.0,F,IV,NA,CN,F
+GSM3577642,fusiform gyrus,98-32,control,83.0,M,III,NA,CN,M
+GSM3577643,fusiform gyrus,09-39,Alzheimer's disease,82.0,M,VI,GSM2516920,AD,M
+GSM3577644,fusiform gyrus,11-05,control,81.0,M,IV,GSM2516911,CN,M
+GSM3577645,fusiform gyrus,11-40,Alzheimer's disease,75.0,M,IV,NA,AD,M
+GSM3577646,fusiform gyrus,11-77,Alzheimer's disease,95.0,M,VI,NA,AD,M
+GSM3577647,fusiform gyrus,11-28,control,79.0,F,III,GSM2516873,CN,F
+GSM3577648,fusiform gyrus,07-27,Alzheimer's disease,92.0,M,V,NA,AD,M
+GSM3577649,fusiform gyrus,10-05,Alzheimer's disease,79.0,F,VI,NA,AD,F
+GSM3577650,fusiform gyrus,00-50,Alzheimer's disease,90.0,F,V,NA,AD,F
+GSM3577651,fusiform gyrus,99-23,control,89.0,F,IV,NA,CN,F
+GSM3577652,fusiform gyrus,05-05,Alzheimer's disease,96.0,F,IV,NA,AD,F
+GSM3577653,fusiform gyrus,08-18,Alzheimer's disease,82.0,M,NA,NA,AD,M
+GSM3577654,fusiform gyrus,07-57,Alzheimer's disease,91.0,F,IV,GSM2516895,AD,F
+GSM3577655,fusiform gyrus,05-28,control,96.0,F,IV,NA,CN,F
+GSM3577656,fusiform gyrus,02-19,Alzheimer's disease,81.0,M,V,NA,AD,M
+GSM3577657,fusiform gyrus,10-73,control,84.0,F,IV,NA,CN,F
+GSM3577658,fusiform gyrus,04-58,Alzheimer's disease,86.0,F,VI,NA,AD,F
+GSM3577659,fusiform gyrus,05-51,Alzheimer's disease,69.0,M,V,NA,AD,M
+GSM3577660,fusiform gyrus,03-02,Alzheimer's disease,76.0,M,V,NA,AD,M
+GSM3577661,fusiform gyrus,12-44,control,80.0,F,III,GSM2516848,CN,F
+GSM3577662,fusiform gyrus,03-54,Alzheimer's disease,76.0,M,V,NA,AD,M
+GSM3577663,fusiform gyrus,01-31,control,81.0,M,III,NA,CN,M
+GSM3577664,fusiform gyrus,11-78,Alzheimer's disease,82.0,M,V,NA,AD,M
+GSM3577665,fusiform gyrus,11-101,Alzheimer's disease,88.0,M,VI,NA,AD,M
+GSM3577666,fusiform gyrus,08-59,Alzheimer's disease,89.0,M,V,GSM2516845,AD,M
+GSM3577667,fusiform gyrus,98-09,Alzheimer's disease,85.0,F,VI,NA,AD,F
+GSM3577668,fusiform gyrus,07-50,Alzheimer's disease,81.0,M,V,GSM2516828,AD,M
+GSM3577669,fusiform gyrus,05-52,Alzheimer's disease,70.0,F,VI,GSM2516822,AD,F
+GSM3577670,fusiform gyrus,03-38,Alzheimer's disease,84.0,F,VI,NA,AD,F
+GSM3577671,fusiform gyrus,13-49,control,75.0,F,II,NA,CN,F
+GSM3577672,fusiform gyrus,02-12,control,92.0,M,III,GSM2516827,CN,M
+GSM3577673,fusiform gyrus,13-04,Alzheimer's disease,91.0,M,IV,NA,AD,M
+GSM3577674,fusiform gyrus,13-16,Alzheimer's disease,76.0,M,VI,NA,AD,M
+GSM3577675,fusiform gyrus,99-35,Alzheimer's disease,81.0,F,VI,NA,AD,F
+GSM3577676,fusiform gyrus,09-11,Alzheimer's disease,86.0,M,V,GSM2516884,AD,M
+GSM3577677,fusiform gyrus,03-14,Alzheimer's disease,95.0,M,V,NA,AD,M
+GSM3577678,fusiform gyrus,06-68,control,87.0,F,IV,NA,CN,F
+GSM3577679,fusiform gyrus,07-34,Alzheimer's disease,86.0,F,IV,GSM2516860,AD,F
+GSM3577680,fusiform gyrus,03-37,Alzheimer's disease,86.0,F,V,GSM2516855,AD,F
+GSM3577681,fusiform gyrus,99-60,Alzheimer's disease,83.0,M,III,NA,AD,M
+GSM3577682,fusiform gyrus,11-87,control,87.0,F,IV,GSM2516854,CN,F
+GSM3577683,fusiform gyrus,99-03,Alzheimer's disease,72.0,M,V,NA,AD,M
+GSM3577684,fusiform gyrus,08-62,Alzheimer's disease,102.0,F,V,NA,AD,F
+GSM3577685,fusiform gyrus,05-36,control,82.0,M,III,GSM2516837,CN,M
+GSM3577686,fusiform gyrus,04-62,control,86.0,F,IV,NA,CN,F
+GSM3577687,fusiform gyrus,99-07,Alzheimer's disease,92.0,F,V,NA,AD,F
+GSM3577688,fusiform gyrus,12-64,Alzheimer's disease,83.0,M,VI,NA,AD,M
+GSM3577689,fusiform gyrus,10-58,control,90.0,M,IV,NA,CN,M
+GSM3577690,fusiform gyrus,99-06,Alzheimer's disease,88.0,M,V,NA,AD,M
+GSM3577691,fusiform gyrus,98-33,control,82.0,F,II,NA,CN,F
+GSM3577692,fusiform gyrus,10-68,Alzheimer's disease,74.0,F,III,NA,AD,F
+GSM3577693,fusiform gyrus,03-35,Alzheimer's disease,85.0,F,IV,NA,AD,F
+GSM3577694,fusiform gyrus,00-54,Alzheimer's disease,79.0,M,V,GSM2516840,AD,M
+GSM3577695,fusiform gyrus,07-15,Alzheimer's disease,80.0,M,VI,GSM2516823,AD,M
+GSM3577696,fusiform gyrus,07-71,Alzheimer's disease,77.0,M,IV,NA,AD,M
+GSM3577697,fusiform gyrus,00-46,Alzheimer's disease,69.0,F,VI,NA,AD,F
+GSM3577698,fusiform gyrus,98-26,Alzheimer's disease,84.0,M,V,NA,AD,M
+GSM3577699,fusiform gyrus,10-42,control,91.0,M,III,GSM2516918,CN,M
+GSM3577700,fusiform gyrus,99-29,control,81.0,M,IV,GSM2516922,CN,M
+GSM3577701,fusiform gyrus,09-09,Alzheimer's disease,76.0,M,III,NA,AD,M
+GSM3577702,fusiform gyrus,11-49,Alzheimer's disease,71.0,F,VI,GSM2516888,AD,F
+GSM3577703,fusiform gyrus,03-41,control,89.0,M,II,GSM2516852,CN,M
+GSM3577704,fusiform gyrus,03-07,Alzheimer's disease,67.0,M,V,NA,AD,M
+GSM3577705,fusiform gyrus,00-37,Alzheimer's disease,81.0,M,V,GSM2516857,AD,M
+GSM3577706,fusiform gyrus,04-28,Alzheimer's disease,87.0,F,V,GSM2516903,AD,F
+GSM3577707,fusiform gyrus,11-89,Alzheimer's disease,97.0,M,IV,GSM2516919,AD,M
+GSM3577708,fusiform gyrus,08-54,Alzheimer's disease,94.0,F,IV,GSM2516912,AD,F
+GSM3577709,fusiform gyrus,08-55,control,71.0,M,I,NA,CN,M
+GSM3577710,fusiform gyrus,10-94,control,82.0,M,IV,GSM2516821,CN,M
+GSM3577711,fusiform gyrus,09-22,Alzheimer's disease,92.0,F,VI,NA,AD,F
+GSM3577712,fusiform gyrus,05-39,Alzheimer's disease,82.0,M,IV,GSM2516886,AD,M
+GSM3577713,fusiform gyrus,11-66,Alzheimer's disease,73.0,M,V,GSM2516887,AD,M
+GSM3577714,fusiform gyrus,13-43,control,103.0,F,IV,NA,CN,F
+GSM3577715,fusiform gyrus,08-35,control,87.0,M,IV,GSM2516883,CN,M
+GSM3577716,fusiform gyrus,11-85,Alzheimer's disease,76.0,M,IV,NA,AD,M
+GSM3577717,fusiform gyrus,02-38,control,86.0,M,III,GSM2516819,CN,M
+GSM3577718,fusiform gyrus,11-72,Alzheimer's disease,76.0,M,VI,NA,AD,M
+GSM3577719,fusiform gyrus,12-63,Alzheimer's disease,70.0,F,VI,NA,AD,F
+GSM3577720,fusiform gyrus,99-11,Alzheimer's disease,80.0,M,IV,NA,AD,M
+GSM3577721,fusiform gyrus,11-48,Alzheimer's disease,87.0,M,VI,GSM2516898,AD,M
+GSM3577722,fusiform gyrus,10-79,Alzheimer's disease,88.0,F,V,NA,AD,F
+GSM3577723,fusiform gyrus,09-16,Alzheimer's disease,91.0,F,IV,NA,AD,F
+GSM3577724,fusiform gyrus,12-48,Alzheimer's disease,98.0,F,V,NA,AD,F
+GSM3577725,fusiform gyrus,13-31,Alzheimer's disease,85.0,M,VI,NA,AD,M
+GSM3577726,fusiform gyrus,13-38,Alzheimer's disease,84.0,M,V,NA,AD,M
+GSM3577727,fusiform gyrus,13-32,Alzheimer's disease,65.0,M,VI,NA,AD,M
+GSM3577728,fusiform gyrus,10-80,Alzheimer's disease,78.0,F,VI,NA,AD,F
+GSM3577729,fusiform gyrus,10-41,Alzheimer's disease,74.0,F,VI,NA,AD,F
+GSM3577730,fusiform gyrus,09-01,Alzheimer's disease,91.0,F,V,NA,AD,F
+GSM3577731,fusiform gyrus,00-30,control,92.0,F,IV,NA,CN,F
+GSM3577732,fusiform gyrus,99-34,Alzheimer's disease,61.0,F,VI,NA,AD,F
+GSM3577733,fusiform gyrus,08-37,Alzheimer's disease,87.0,M,VI,GSM2516907,AD,M
+GSM3577734,fusiform gyrus,13-48,Alzheimer's disease,89.0,F,VI,NA,AD,F
+GSM3577735,fusiform gyrus,06-61,control,100.0,M,IV,NA,CN,M
+GSM3577736,fusiform gyrus,10-93,Alzheimer's disease,88.0,M,VI,NA,AD,M
+GSM3577737,fusiform gyrus,12-71,Alzheimer's disease,74.0,F,VI,NA,AD,F
+GSM3577738,fusiform gyrus,06-08,control,84.0,M,II,NA,CN,M
+GSM3577739,fusiform gyrus,08-20,Alzheimer's disease,76.0,M,V,GSM2516861,AD,M
+GSM3577740,fusiform gyrus,11-102,control,93.0,M,IV,GSM2516872,CN,M
+GSM3577741,fusiform gyrus,97-19,control,87.0,M,IV,NA,CN,M
+GSM3577742,fusiform gyrus,00-01,Alzheimer's disease,76.0,F,IV,NA,AD,F
+GSM3577743,fusiform gyrus,07-12,Alzheimer's disease,84.0,M,V,NA,AD,M
+GSM3577744,fusiform gyrus,07-58,control,88.0,F,III,NA,CN,F
+GSM3577745,fusiform gyrus,04-64,control,90.0,F,IV,GSM2516904,CN,F
+GSM3577746,fusiform gyrus,08-46,Alzheimer's disease,60.0,F,VI,GSM2516850,AD,F
+GSM3577747,fusiform gyrus,12-61,Alzheimer's disease,97.0,F,V,NA,AD,F
+GSM3577748,fusiform gyrus,05-25,Alzheimer's disease,94.0,F,IV,NA,AD,F
+GSM3577749,fusiform gyrus,11-15,control,86.0,M,IV,GSM2516859,CN,M
+GSM3577750,fusiform gyrus,01-32,Alzheimer's disease,86.0,F,VI,NA,AD,F
+GSM3577751,fusiform gyrus,11-51,Alzheimer's disease,87.0,F,V,NA,AD,F
+GSM3577752,fusiform gyrus,08-90,control,81.0,M,III,GSM2516853,CN,M
+GSM3577753,fusiform gyrus,01-27,Alzheimer's disease,72.0,M,I,NA,AD,M
+GSM3577754,fusiform gyrus,11-105,Alzheimer's disease,81.0,M,VI,GSM2516875,AD,M
+GSM3577755,fusiform gyrus,10-36,Alzheimer's disease,90.0,M,V,NA,AD,M
+GSM3577756,fusiform gyrus,08-26,Alzheimer's disease,85.0,M,IV,NA,AD,M
+GSM3577757,fusiform gyrus,03-56,Alzheimer's disease,85.0,F,III,NA,AD,F
+GSM3577758,fusiform gyrus,12-65,Alzheimer's disease,74.0,M,IV,NA,AD,M
+GSM3577759,fusiform gyrus,07-24,Alzheimer's disease,77.0,M,IV,NA,AD,M
+GSM3577760,fusiform gyrus,98-07,Alzheimer's disease,85.0,M,III,GSM2516877,AD,M
+GSM3577761,fusiform gyrus,08-83,control,92.0,F,IV,NA,CN,F
+GSM3577762,fusiform gyrus,05-61,control,88.0,F,IV,NA,CN,F
+GSM3577763,fusiform gyrus,09-36,Alzheimer's disease,80.0,M,IV,NA,AD,M
+GSM3577764,fusiform gyrus,11-56,Alzheimer's disease,87.0,F,VI,GSM2516901,AD,F
+GSM3577765,fusiform gyrus,04-50,Alzheimer's disease,85.0,M,IV,NA,AD,M
+GSM3577766,fusiform gyrus,99-18,Alzheimer's disease,84.0,F,IV,NA,AD,F
+GSM3577767,fusiform gyrus,07-10,control,90.0,F,III,NA,CN,F
+GSM3577768,fusiform gyrus,99-12,Alzheimer's disease,79.0,M,IV,NA,AD,M
+GSM3577769,fusiform gyrus,04-09,Alzheimer's disease,66.0,F,VI,GSM2516882,AD,F
+GSM3577770,fusiform gyrus,11-10,Alzheimer's disease,86.0,F,V,NA,AD,F
+GSM3577771,fusiform gyrus,07-08,Alzheimer's disease,70.0,F,VI,NA,AD,F
+GSM3577772,fusiform gyrus,03-30,Alzheimer's disease,60.0,F,VI,NA,AD,F
+GSM3577773,fusiform gyrus,06-39,Alzheimer's disease,82.0,M,IV,NA,AD,M
+GSM3577774,fusiform gyrus,11-42,Alzheimer's disease,81.0,F,VI,NA,AD,F
+GSM3577775,fusiform gyrus,08-44,control,91.0,F,IV,GSM2516842,CN,F
+GSM3577776,fusiform gyrus,09-51,Alzheimer's disease,87.0,M,III,NA,AD,M
+GSM3577777,fusiform gyrus,99-48,Alzheimer's disease,85.0,F,IV,GSM2516856,AD,F
+GSM3577778,fusiform gyrus,03-50,control,91.0,M,III,NA,CN,M
+GSM3577779,fusiform gyrus,09-31,control,92.0,M,IV,NA,CN,M
+GSM3577780,fusiform gyrus,98-06,Alzheimer's disease,91.0,F,VI,NA,AD,F
+GSM3577781,fusiform gyrus,13-23,Alzheimer's disease,75.0,M,IV,NA,AD,M
+GSM3577782,fusiform gyrus,04-32,Alzheimer's disease,85.0,F,VI,NA,AD,F
+GSM3577783,fusiform gyrus,13-50,Alzheimer's disease,94.0,F,V,NA,AD,F
+GSM3577784,fusiform gyrus,10-77,Alzheimer's disease,81.0,M,IV,NA,AD,M
+GSM3577785,fusiform gyrus,04-55,Alzheimer's disease,84.0,M,V,GSM2516917,AD,M
+GSM3577786,fusiform gyrus,10-63,control,79.0,M,II,GSM2516906,CN,M
+GSM3577787,fusiform gyrus,99-53,Alzheimer's disease,82.0,F,VI,NA,AD,F
+GSM3577788,fusiform gyrus,10-92,Alzheimer's disease,79.0,F,V,NA,AD,F
+GSM3577789,fusiform gyrus,07-72,control,91.0,M,IV,NA,CN,M
+GSM3577790,fusiform gyrus,04-44,Alzheimer's disease,81.0,M,VI,NA,AD,M
+GSM3577791,fusiform gyrus,98-30,Alzheimer's disease,86.0,F,V,NA,AD,F
+GSM3577792,fusiform gyrus,07-37,control,89.0,M,II,NA,CN,M
+GSM3577793,fusiform gyrus,06-19,control,84.0,M,II,NA,CN,M
+GSM3577794,fusiform gyrus,09-20,control,99.0,F,III,GSM2516825,CN,F
+GSM3577795,fusiform gyrus,99-36,Alzheimer's disease,76.0,M,IV,NA,AD,M
+GSM3577796,fusiform gyrus,03-21,Alzheimer's disease,84.0,F,VI,NA,AD,F
+GSM3577797,fusiform gyrus,08-09,Alzheimer's disease,92.0,F,V,NA,AD,F
+GSM3577798,fusiform gyrus,12-02,Alzheimer's disease,86.0,M,V,NA,AD,M
+GSM3577799,fusiform gyrus,03-04,Alzheimer's disease,87.0,F,V,NA,AD,F
+GSM3577800,fusiform gyrus,03-62,Alzheimer's disease,89.0,M,III,GSM2516893,AD,M
+GSM3577801,fusiform gyrus,11-108,Alzheimer's disease,91.0,F,IV,GSM2516869,AD,F
+GSM3577802,fusiform gyrus,01-30,Alzheimer's disease,94.0,F,IV,NA,AD,F
+GSM3577803,fusiform gyrus,08-29,Alzheimer's disease,90.0,M,III,GSM2516892,AD,M
+GSM3577804,fusiform gyrus,13-15,Alzheimer's disease,76.0,F,V,NA,AD,F
+GSM3577805,fusiform gyrus,11-03,Alzheimer's disease,77.0,M,IV,GSM2516829,AD,M
+GSM3577806,fusiform gyrus,10-66,Alzheimer's disease,82.0,M,IV,NA,AD,M
+GSM3577807,fusiform gyrus,05-40,Alzheimer's disease,91.0,F,IV,NA,AD,F
+GSM3577808,fusiform gyrus,12-45,Alzheimer's disease,87.0,M,V,NA,AD,M
+GSM3577809,fusiform gyrus,04-43,Alzheimer's disease,91.0,M,V,NA,AD,M
+GSM3577810,fusiform gyrus,01-51,control,88.0,F,III,NA,CN,F
+GSM3577811,fusiform gyrus,10-53,Alzheimer's disease,87.0,M,III,GSM2516899,AD,M
+GSM3577812,fusiform gyrus,09-44,control,97.0,F,IV,GSM2516905,CN,F
+GSM3577813,fusiform gyrus,06-54,Alzheimer's disease,91.0,F,IV,GSM2516866,AD,F
+GSM3577814,fusiform gyrus,10-18,Alzheimer's disease,80.0,M,V,GSM2516864,AD,M
+GSM3577815,fusiform gyrus,11-02,Alzheimer's disease,78.0,M,IV,NA,AD,M
+GSM3577816,fusiform gyrus,11-65,Alzheimer's disease,84.0,M,VI,NA,AD,M
+GSM3577817,fusiform gyrus,08-22,Alzheimer's disease,79.0,F,VI,NA,AD,F
+GSM3577818,fusiform gyrus,13-42,Alzheimer's disease,80.0,M,VI,NA,AD,M
+GSM3577819,fusiform gyrus,07-04,control,97.0,M,III,NA,CN,M
+GSM3577820,fusiform gyrus,04-54,Alzheimer's disease,75.0,M,V,GSM2516894,AD,M
+GSM3577821,fusiform gyrus,00-39,Alzheimer's disease,87.0,M,IV,GSM2516910,AD,M
+GSM3577822,fusiform gyrus,10-86,Alzheimer's disease,68.0,M,IV,NA,AD,M
+GSM3577823,fusiform gyrus,04-37,Alzheimer's disease,82.0,F,III,NA,AD,F
+GSM3577824,fusiform gyrus,11-99,Alzheimer's disease,83.0,F,VI,NA,AD,F
+GSM3577825,fusiform gyrus,11-14,Alzheimer's disease,101.0,F,VI,GSM2516811,AD,F
+GSM3577826,fusiform gyrus,10-75,Alzheimer's disease,92.0,M,V,GSM2516835,AD,M
+GSM3577827,fusiform gyrus,04-42,Alzheimer's disease,73.0,M,II,NA,AD,M
+GSM3577828,fusiform gyrus,98-15,Alzheimer's disease,88.0,M,III,NA,AD,M
+GSM3577829,fusiform gyrus,13-06,Alzheimer's disease,93.0,M,IV,NA,AD,M
+GSM3577830,fusiform gyrus,03-19,Alzheimer's disease,77.0,F,V,NA,AD,F
+GSM3577831,fusiform gyrus,98-05,Alzheimer's disease,88.0,M,V,NA,AD,M
+GSM3577832,fusiform gyrus,00-28,Alzheimer's disease,82.0,F,IV,GSM2516915,AD,F
+GSM3577833,fusiform gyrus,09-54,Alzheimer's disease,82.0,F,V,NA,AD,F
+GSM3577834,fusiform gyrus,03-27,Alzheimer's disease,91.0,F,V,NA,AD,F
+GSM3577835,fusiform gyrus,11-38,Alzheimer's disease,64.0,M,VI,GSM2516862,AD,M
+GSM3577836,fusiform gyrus,10-74,control,82.0,F,IV,NA,CN,F
+GSM3577837,fusiform gyrus,10-23,Alzheimer's disease,74.0,F,V,NA,AD,F
+GSM3577838,fusiform gyrus,04-29,Alzheimer's disease,91.0,F,IV,GSM2516867,AD,F
+GSM3577839,fusiform gyrus,13-10,Alzheimer's disease,74.0,M,VI,NA,AD,M
+GSM3577840,fusiform gyrus,04-05,control,82.0,F,II,NA,CN,F
+GSM3577841,fusiform gyrus,03-36,Alzheimer's disease,85.0,M,II,NA,AD,M
+GSM3577842,fusiform gyrus,07-42,Alzheimer's disease,65.0,F,VI,NA,AD,F
+GSM3577843,fusiform gyrus,05-10,control,91.0,M,II,NA,CN,M
+GSM3577844,fusiform gyrus,11-75,Alzheimer's disease,90.0,F,VI,GSM2516830,AD,F
+GSM3577845,fusiform gyrus,98-40,Alzheimer's disease,86.0,F,IV,NA,AD,F
+GSM3577846,fusiform gyrus,03-59,Alzheimer's disease,88.0,M,VI,NA,AD,M
+GSM3577847,fusiform gyrus,00-14,control,90.0,M,III,NA,CN,M
+GSM3577848,fusiform gyrus,07-64,Alzheimer's disease,91.0,F,II,NA,AD,F
+GSM3577849,fusiform gyrus,10-10,control,80.0,M,III,NA,CN,M
+GSM3577850,fusiform gyrus,11-60,control,91.0,F,IV,NA,CN,F
+GSM3577851,fusiform gyrus,08-23,control,85.0,M,III,NA,CN,M
+GSM3577852,fusiform gyrus,04-60,Alzheimer's disease,75.0,M,V,NA,AD,M
+GSM3577853,fusiform gyrus,03-05,Alzheimer's disease,86.0,F,VI,NA,AD,F
+GSM3577854,fusiform gyrus,13-45,Alzheimer's disease,83.0,M,V,NA,AD,M
+GSM3577855,fusiform gyrus,07-38,Alzheimer's disease,92.0,F,IV,NA,AD,F
+GSM3577856,fusiform gyrus,08-45,Alzheimer's disease,78.0,M,VI,GSM2516847,AD,M

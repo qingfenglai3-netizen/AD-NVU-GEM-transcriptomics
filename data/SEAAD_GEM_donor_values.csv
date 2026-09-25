@@ -1,0 +1,338 @@
+donor_id,ADNC,Braak stage,CERAD score,Thal phase,disease,sex,expr,n_cells,dataset,gene
+H18.30.001,Reference,Reference,Reference,Reference,normal,female,0.0,11,MTG_Endothelial,GEM
+H18.30.002,Reference,Reference,Reference,Reference,normal,male,0.0,9,MTG_Endothelial,GEM
+H19.30.001,Reference,Reference,Reference,Reference,normal,male,0.0,48,MTG_Endothelial,GEM
+H19.30.002,Reference,Reference,Reference,Reference,normal,male,0.0,17,MTG_Endothelial,GEM
+H19.33.004,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,159,MTG_Endothelial,GEM
+H20.33.001,Low,Braak IV,Sparse,Thal 2,normal,male,0.0,37,MTG_Endothelial,GEM
+H20.33.002,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,14,MTG_Endothelial,GEM
+H20.33.004,High,Braak V,Frequent,Thal 5,dementia,male,0.0,22,MTG_Endothelial,GEM
+H20.33.005,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.0040943995,78,MTG_Endothelial,GEM
+H20.33.008,High,Braak V,Moderate,Thal 4,normal,female,0.0,11,MTG_Endothelial,GEM
+H20.33.011,High,Braak V,Moderate,Thal 5,dementia,female,0.0,15,MTG_Endothelial,GEM
+H20.33.012,Low,Braak III,Absent,Thal 1,normal,female,0.0,21,MTG_Endothelial,GEM
+H20.33.013,Intermediate,Braak IV,Moderate,Thal 3,normal,male,0.0,15,MTG_Endothelial,GEM
+H20.33.014,Intermediate,Braak IV,Sparse,Thal 3,normal,female,0.0,7,MTG_Endothelial,GEM
+H20.33.015,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.0,7,MTG_Endothelial,GEM
+H20.33.016,Intermediate,Braak IV,Moderate,Thal 4,dementia,female,0.0,11,MTG_Endothelial,GEM
+H20.33.017,High,Braak VI,Frequent,Thal 4,dementia,male,0.0,18,MTG_Endothelial,GEM
+H20.33.018,High,Braak VI,Frequent,Thal 5,dementia,female,0.0,50,MTG_Endothelial,GEM
+H20.33.019,Intermediate,Braak III,Sparse,Thal 4,normal,female,0.0,17,MTG_Endothelial,GEM
+H20.33.020,High,Braak VI,Frequent,Thal 5,dementia,male,0.0,31,MTG_Endothelial,GEM
+H20.33.025,High,Braak V,Moderate,Thal 4,normal,male,0.0,18,MTG_Endothelial,GEM
+H20.33.026,High,Braak VI,Frequent,Thal 4,dementia,female,0.0,4,MTG_Endothelial,GEM
+H20.33.027,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.0,32,MTG_Endothelial,GEM
+H20.33.028,High,Braak V,Moderate,Thal 4,dementia,female,0.048890997,47,MTG_Endothelial,GEM
+H20.33.029,High,Braak V,Moderate,Thal 4,dementia,female,0.0,3,MTG_Endothelial,GEM
+H20.33.030,High,Braak V,Frequent,Thal 4,normal,female,0.0,40,MTG_Endothelial,GEM
+H20.33.031,High,Braak VI,Frequent,Thal 4,dementia,female,0.0,4,MTG_Endothelial,GEM
+H20.33.032,High,Braak V,Moderate,Thal 5,normal,male,0.0,13,MTG_Endothelial,GEM
+H20.33.033,High,Braak VI,Frequent,Thal 5,dementia,male,0.0,13,MTG_Endothelial,GEM
+H20.33.034,Intermediate,Braak IV,Absent,Thal 3,normal,female,0.0,35,MTG_Endothelial,GEM
+H20.33.035,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,9,MTG_Endothelial,GEM
+H20.33.036,High,Braak V,Moderate,Thal 5,normal,female,0.0,14,MTG_Endothelial,GEM
+H20.33.037,High,Braak V,Frequent,Thal 5,dementia,female,0.021572502,27,MTG_Endothelial,GEM
+H20.33.038,High,Braak V,Frequent,Thal 4,dementia,female,0.0,12,MTG_Endothelial,GEM
+H20.33.039,High,Braak V,Frequent,Thal 4,normal,female,0.0,19,MTG_Endothelial,GEM
+H20.33.040,Intermediate,Braak IV,Frequent,Thal 4,dementia,male,0.0,22,MTG_Endothelial,GEM
+H20.33.041,High,Braak V,Moderate,Thal 4,dementia,female,0.0,15,MTG_Endothelial,GEM
+H20.33.043,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.0,7,MTG_Endothelial,GEM
+H20.33.044,Not AD,Braak V,Absent,Thal 0,normal,male,0.0,14,MTG_Endothelial,GEM
+H20.33.045,High,Braak VI,Frequent,Thal 5,dementia,female,0.0,28,MTG_Endothelial,GEM
+H20.33.046,High,Braak VI,Frequent,Thal 5,dementia,male,0.0,51,MTG_Endothelial,GEM
+H200.1023,Reference,Reference,Reference,Reference,normal,female,0.0,4,MTG_Endothelial,GEM
+H21.33.001,Low,Braak III,Absent,Thal 2,dementia,male,0.049901452,36,MTG_Endothelial,GEM
+H21.33.002,High,Braak VI,Frequent,Thal 5,dementia,female,0.0,36,MTG_Endothelial,GEM
+H21.33.003,Not AD,Braak 0,Absent,Thal 0,normal,male,0.0,18,MTG_Endothelial,GEM
+H21.33.004,Not AD,Braak II,Absent,Thal 0,normal,male,0.0,13,MTG_Endothelial,GEM
+H21.33.005,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.0,16,MTG_Endothelial,GEM
+H21.33.007,High,Braak V,Frequent,Thal 4,dementia,female,0.03527522,22,MTG_Endothelial,GEM
+H21.33.008,High,Braak V,Frequent,Thal 4,dementia,female,0.0,3,MTG_Endothelial,GEM
+H21.33.009,High,Braak VI,Frequent,Thal 5,dementia,female,0.0,9,MTG_Endothelial,GEM
+H21.33.010,High,Braak VI,Frequent,Thal 5,dementia,female,0.0,101,MTG_Endothelial,GEM
+H21.33.011,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,7,MTG_Endothelial,GEM
+H21.33.012,Intermediate,Braak IV,Sparse,Thal 3,dementia,female,0.0,21,MTG_Endothelial,GEM
+H21.33.013,High,Braak V,Moderate,Thal 4,dementia,female,0.0633448,14,MTG_Endothelial,GEM
+H21.33.014,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.0,4,MTG_Endothelial,GEM
+H21.33.015,Low,Braak IV,Sparse,Thal 2,normal,male,0.0,17,MTG_Endothelial,GEM
+H21.33.017,High,Braak V,Frequent,Thal 5,dementia,female,0.0,13,MTG_Endothelial,GEM
+H21.33.018,Low,Braak II,Frequent,Thal 3,dementia,female,0.0,22,MTG_Endothelial,GEM
+H21.33.019,Low,Braak 0,Sparse,Thal 1,normal,male,0.0,35,MTG_Endothelial,GEM
+H21.33.020,High,Braak V,Frequent,Thal 4,dementia,male,0.0,12,MTG_Endothelial,GEM
+H21.33.021,Intermediate,Braak III,Moderate,Thal 4,dementia,male,0.0,11,MTG_Endothelial,GEM
+H21.33.022,Intermediate,Braak VI,Moderate,Thal 2,normal,female,0.0,59,MTG_Endothelial,GEM
+H21.33.023,Not AD,Braak IV,Absent,Thal 0,normal,male,0.0,21,MTG_Endothelial,GEM
+H21.33.025,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.0,34,MTG_Endothelial,GEM
+H21.33.026,High,Braak V,Frequent,Thal 4,normal,female,0.0,23,MTG_Endothelial,GEM
+H21.33.027,High,Braak V,Moderate,Thal 5,dementia,male,0.032444302,85,MTG_Endothelial,GEM
+H21.33.028,Low,Braak II,Absent,Thal 1,normal,male,0.0,24,MTG_Endothelial,GEM
+H21.33.029,High,Braak V,Frequent,Thal 5,dementia,male,0.0,19,MTG_Endothelial,GEM
+H21.33.030,Intermediate,Braak III,Moderate,Thal 3,normal,male,0.0,19,MTG_Endothelial,GEM
+H21.33.031,High,Braak V,Moderate,Thal 5,dementia,male,0.0,17,MTG_Endothelial,GEM
+H21.33.032,Low,Braak IV,Sparse,Thal 2,normal,female,0.0,19,MTG_Endothelial,GEM
+H21.33.033,High,Braak V,Moderate,Thal 5,normal,female,0.0068006217,20,MTG_Endothelial,GEM
+H21.33.034,High,Braak VI,Frequent,Thal 5,dementia,female,0.027784223,56,MTG_Endothelial,GEM
+H21.33.035,High,Braak V,Moderate,Thal 5,normal,female,0.0,35,MTG_Endothelial,GEM
+H21.33.037,Low,Braak IV,Absent,Thal 2,normal,female,0.0,14,MTG_Endothelial,GEM
+H21.33.038,Low,Braak III,Absent,Thal 1,normal,female,0.0,10,MTG_Endothelial,GEM
+H21.33.040,High,Braak V,Frequent,Thal 4,normal,male,0.0,32,MTG_Endothelial,GEM
+H21.33.041,Not AD,Braak IV,Absent,Thal 0,normal,female,0.018588511,17,MTG_Endothelial,GEM
+H21.33.042,High,Braak V,Moderate,Thal 5,dementia,female,0.0,5,MTG_Endothelial,GEM
+H21.33.043,Low,Braak II,Sparse,Thal 4,dementia,female,0.0,31,MTG_Endothelial,GEM
+H21.33.044,Intermediate,Braak VI,Frequent,Thal 3,dementia,female,0.0,27,MTG_Endothelial,GEM
+H21.33.045,High,Braak VI,Frequent,Thal 4,dementia,female,0.0,25,MTG_Endothelial,GEM
+H21.33.046,High,Braak V,Moderate,Thal 4,dementia,male,0.0,8,MTG_Endothelial,GEM
+H21.33.047,Intermediate,Braak V,Frequent,Thal 2,normal,male,0.0,22,MTG_Endothelial,GEM
+H18.30.002,Reference,Reference,Reference,Reference,normal,male,0.0,63,DLPFC_Endothelial,GEM
+H19.30.001,Reference,Reference,Reference,Reference,normal,male,0.069459364,18,DLPFC_Endothelial,GEM
+H19.30.002,Reference,Reference,Reference,Reference,normal,male,0.0,19,DLPFC_Endothelial,GEM
+H19.33.004,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,66,DLPFC_Endothelial,GEM
+H20.33.001,Low,Braak IV,Sparse,Thal 2,normal,male,0.0,21,DLPFC_Endothelial,GEM
+H20.33.002,Not AD,Braak IV,Absent,Thal 0,normal,female,0.008599758,34,DLPFC_Endothelial,GEM
+H20.33.004,High,Braak V,Frequent,Thal 5,dementia,male,0.0,15,DLPFC_Endothelial,GEM
+H20.33.005,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.0,42,DLPFC_Endothelial,GEM
+H20.33.008,High,Braak V,Moderate,Thal 4,normal,female,0.0,5,DLPFC_Endothelial,GEM
+H20.33.011,High,Braak V,Moderate,Thal 5,dementia,female,0.0,30,DLPFC_Endothelial,GEM
+H20.33.012,Low,Braak III,Absent,Thal 1,normal,female,0.036556244,31,DLPFC_Endothelial,GEM
+H20.33.013,Intermediate,Braak IV,Moderate,Thal 3,normal,male,0.0,27,DLPFC_Endothelial,GEM
+H20.33.014,Intermediate,Braak IV,Sparse,Thal 3,normal,female,0.0,12,DLPFC_Endothelial,GEM
+H20.33.015,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.024906715,33,DLPFC_Endothelial,GEM
+H20.33.016,Intermediate,Braak IV,Moderate,Thal 4,dementia,female,0.028636431,24,DLPFC_Endothelial,GEM
+H20.33.017,High,Braak VI,Frequent,Thal 4,dementia,male,0.027327787,55,DLPFC_Endothelial,GEM
+H20.33.018,High,Braak VI,Frequent,Thal 5,dementia,female,0.0941992,46,DLPFC_Endothelial,GEM
+H20.33.019,Intermediate,Braak III,Sparse,Thal 4,normal,female,0.0,28,DLPFC_Endothelial,GEM
+H20.33.020,High,Braak VI,Frequent,Thal 5,dementia,male,0.06355511,23,DLPFC_Endothelial,GEM
+H20.33.024,Intermediate,Braak V,Sparse,Thal 4,normal,male,0.0,14,DLPFC_Endothelial,GEM
+H20.33.025,High,Braak V,Moderate,Thal 4,normal,male,0.0,21,DLPFC_Endothelial,GEM
+H20.33.026,High,Braak VI,Frequent,Thal 4,dementia,female,0.0,27,DLPFC_Endothelial,GEM
+H20.33.027,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.0,27,DLPFC_Endothelial,GEM
+H20.33.028,High,Braak V,Moderate,Thal 4,dementia,female,0.0,68,DLPFC_Endothelial,GEM
+H20.33.029,High,Braak V,Moderate,Thal 4,dementia,female,0.0,29,DLPFC_Endothelial,GEM
+H20.33.030,High,Braak V,Frequent,Thal 4,normal,female,0.0,34,DLPFC_Endothelial,GEM
+H20.33.031,High,Braak VI,Frequent,Thal 4,dementia,female,0.0,37,DLPFC_Endothelial,GEM
+H20.33.032,High,Braak V,Moderate,Thal 5,normal,male,0.0,34,DLPFC_Endothelial,GEM
+H20.33.033,High,Braak VI,Frequent,Thal 5,dementia,male,0.0,40,DLPFC_Endothelial,GEM
+H20.33.034,Intermediate,Braak IV,Absent,Thal 3,normal,female,0.0,33,DLPFC_Endothelial,GEM
+H20.33.035,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0404252,37,DLPFC_Endothelial,GEM
+H20.33.036,High,Braak V,Moderate,Thal 5,normal,female,0.0024933738,77,DLPFC_Endothelial,GEM
+H20.33.037,High,Braak V,Frequent,Thal 5,dementia,female,0.041883186,31,DLPFC_Endothelial,GEM
+H20.33.038,High,Braak V,Frequent,Thal 4,dementia,female,0.04413043,46,DLPFC_Endothelial,GEM
+H20.33.039,High,Braak V,Frequent,Thal 4,normal,female,0.0,43,DLPFC_Endothelial,GEM
+H20.33.040,Intermediate,Braak IV,Frequent,Thal 4,dementia,male,0.021349914,36,DLPFC_Endothelial,GEM
+H20.33.041,High,Braak V,Moderate,Thal 4,dementia,female,0.04766228,22,DLPFC_Endothelial,GEM
+H20.33.044,Not AD,Braak V,Absent,Thal 0,normal,male,0.0,15,DLPFC_Endothelial,GEM
+H20.33.045,High,Braak VI,Frequent,Thal 5,dementia,female,0.0,12,DLPFC_Endothelial,GEM
+H20.33.046,High,Braak VI,Frequent,Thal 5,dementia,male,0.0,14,DLPFC_Endothelial,GEM
+H21.33.001,Low,Braak III,Absent,Thal 2,dementia,male,0.0,8,DLPFC_Endothelial,GEM
+H21.33.002,High,Braak VI,Frequent,Thal 5,dementia,female,0.10207037,25,DLPFC_Endothelial,GEM
+H21.33.003,Not AD,Braak 0,Absent,Thal 0,normal,male,0.019172829,60,DLPFC_Endothelial,GEM
+H21.33.004,Not AD,Braak II,Absent,Thal 0,normal,male,0.0,14,DLPFC_Endothelial,GEM
+H21.33.005,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.07077045,24,DLPFC_Endothelial,GEM
+H21.33.006,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.0,7,DLPFC_Endothelial,GEM
+H21.33.007,High,Braak V,Frequent,Thal 4,dementia,female,0.0,41,DLPFC_Endothelial,GEM
+H21.33.008,High,Braak V,Frequent,Thal 4,dementia,female,0.0,7,DLPFC_Endothelial,GEM
+H21.33.011,Not AD,Braak IV,Absent,Thal 0,normal,female,0.10484037,9,DLPFC_Endothelial,GEM
+H21.33.012,Intermediate,Braak IV,Sparse,Thal 3,dementia,female,0.0063212863,102,DLPFC_Endothelial,GEM
+H21.33.013,High,Braak V,Moderate,Thal 4,dementia,female,0.01083546,28,DLPFC_Endothelial,GEM
+H21.33.014,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.014801654,40,DLPFC_Endothelial,GEM
+H21.33.015,Low,Braak IV,Sparse,Thal 2,normal,male,0.007710891,52,DLPFC_Endothelial,GEM
+H21.33.016,Low,Braak IV,Absent,Thal 1,dementia,female,0.051010214,22,DLPFC_Endothelial,GEM
+H21.33.017,High,Braak V,Frequent,Thal 5,dementia,female,0.0,45,DLPFC_Endothelial,GEM
+H21.33.018,Low,Braak II,Frequent,Thal 3,dementia,female,0.026065757,13,DLPFC_Endothelial,GEM
+H21.33.019,Low,Braak 0,Sparse,Thal 1,normal,male,0.023909397,8,DLPFC_Endothelial,GEM
+H21.33.020,High,Braak V,Frequent,Thal 4,dementia,male,0.13198404,66,DLPFC_Endothelial,GEM
+H21.33.021,Intermediate,Braak III,Moderate,Thal 4,dementia,male,0.02950261,12,DLPFC_Endothelial,GEM
+H21.33.022,Intermediate,Braak VI,Moderate,Thal 2,normal,female,0.100397915,32,DLPFC_Endothelial,GEM
+H21.33.023,Not AD,Braak IV,Absent,Thal 0,normal,male,0.025267294,30,DLPFC_Endothelial,GEM
+H21.33.025,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.14339772,13,DLPFC_Endothelial,GEM
+H21.33.026,High,Braak V,Frequent,Thal 4,normal,female,0.0,21,DLPFC_Endothelial,GEM
+H21.33.027,High,Braak V,Moderate,Thal 5,dementia,male,0.0,9,DLPFC_Endothelial,GEM
+H21.33.028,Low,Braak II,Absent,Thal 1,normal,male,0.031631432,15,DLPFC_Endothelial,GEM
+H21.33.029,High,Braak V,Frequent,Thal 5,dementia,male,0.012991576,66,DLPFC_Endothelial,GEM
+H21.33.030,Intermediate,Braak III,Moderate,Thal 3,normal,male,0.0,11,DLPFC_Endothelial,GEM
+H21.33.031,High,Braak V,Moderate,Thal 5,dementia,male,0.122320466,9,DLPFC_Endothelial,GEM
+H21.33.032,Low,Braak IV,Sparse,Thal 2,normal,female,0.0,18,DLPFC_Endothelial,GEM
+H21.33.033,High,Braak V,Moderate,Thal 5,normal,female,0.008419604,58,DLPFC_Endothelial,GEM
+H21.33.034,High,Braak VI,Frequent,Thal 5,dementia,female,0.07188007,25,DLPFC_Endothelial,GEM
+H21.33.035,High,Braak V,Moderate,Thal 5,normal,female,0.027627137,33,DLPFC_Endothelial,GEM
+H21.33.036,High,Braak V,Frequent,Thal 4,normal,female,0.0,30,DLPFC_Endothelial,GEM
+H21.33.037,Low,Braak IV,Absent,Thal 2,normal,female,0.0,43,DLPFC_Endothelial,GEM
+H21.33.038,Low,Braak III,Absent,Thal 1,normal,female,0.0,23,DLPFC_Endothelial,GEM
+H21.33.040,High,Braak V,Frequent,Thal 4,normal,male,0.011830243,53,DLPFC_Endothelial,GEM
+H21.33.041,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,25,DLPFC_Endothelial,GEM
+H21.33.042,High,Braak V,Moderate,Thal 5,dementia,female,0.16081592,10,DLPFC_Endothelial,GEM
+H21.33.043,Low,Braak II,Sparse,Thal 4,dementia,female,0.0,24,DLPFC_Endothelial,GEM
+H21.33.044,Intermediate,Braak VI,Frequent,Thal 3,dementia,female,0.051283684,21,DLPFC_Endothelial,GEM
+H21.33.045,High,Braak VI,Frequent,Thal 4,dementia,female,0.012629536,69,DLPFC_Endothelial,GEM
+H21.33.046,High,Braak V,Moderate,Thal 4,dementia,male,0.0,43,DLPFC_Endothelial,GEM
+H21.33.047,Intermediate,Braak V,Frequent,Thal 2,normal,male,0.0,22,DLPFC_Endothelial,GEM
+H18.30.002,Reference,Reference,Reference,Reference,normal,male,0.18017732,17,MTG_VLMC,GEM
+H19.30.001,Reference,Reference,Reference,Reference,normal,male,0.091565885,81,MTG_VLMC,GEM
+H19.30.002,Reference,Reference,Reference,Reference,normal,male,0.048355587,26,MTG_VLMC,GEM
+H19.33.004,Not AD,Braak IV,Absent,Thal 0,normal,female,0.061136737,97,MTG_VLMC,GEM
+H20.33.001,Low,Braak IV,Sparse,Thal 2,normal,male,0.24948077,92,MTG_VLMC,GEM
+H20.33.002,Not AD,Braak IV,Absent,Thal 0,normal,female,0.07715348,31,MTG_VLMC,GEM
+H20.33.004,High,Braak V,Frequent,Thal 5,dementia,male,0.17088851,67,MTG_VLMC,GEM
+H20.33.005,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.046415385,123,MTG_VLMC,GEM
+H20.33.008,High,Braak V,Moderate,Thal 4,normal,female,0.17826904,19,MTG_VLMC,GEM
+H20.33.011,High,Braak V,Moderate,Thal 5,dementia,female,0.25076732,21,MTG_VLMC,GEM
+H20.33.012,Low,Braak III,Absent,Thal 1,normal,female,0.25565764,69,MTG_VLMC,GEM
+H20.33.013,Intermediate,Braak IV,Moderate,Thal 3,normal,male,0.06079352,34,MTG_VLMC,GEM
+H20.33.014,Intermediate,Braak IV,Sparse,Thal 3,normal,female,0.0,22,MTG_VLMC,GEM
+H20.33.015,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.30359238,26,MTG_VLMC,GEM
+H20.33.016,Intermediate,Braak IV,Moderate,Thal 4,dementia,female,0.13065661,26,MTG_VLMC,GEM
+H20.33.017,High,Braak VI,Frequent,Thal 4,dementia,male,0.10605795,68,MTG_VLMC,GEM
+H20.33.018,High,Braak VI,Frequent,Thal 5,dementia,female,0.15474553,196,MTG_VLMC,GEM
+H20.33.019,Intermediate,Braak III,Sparse,Thal 4,normal,female,0.090436846,42,MTG_VLMC,GEM
+H20.33.020,High,Braak VI,Frequent,Thal 5,dementia,male,0.19582196,102,MTG_VLMC,GEM
+H20.33.024,Intermediate,Braak V,Sparse,Thal 4,normal,male,0.0655585,10,MTG_VLMC,GEM
+H20.33.025,High,Braak V,Moderate,Thal 4,normal,male,0.06133118,33,MTG_VLMC,GEM
+H20.33.026,High,Braak VI,Frequent,Thal 4,dementia,female,0.019330777,29,MTG_VLMC,GEM
+H20.33.027,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.19252685,81,MTG_VLMC,GEM
+H20.33.028,High,Braak V,Moderate,Thal 4,dementia,female,0.13468276,92,MTG_VLMC,GEM
+H20.33.029,High,Braak V,Moderate,Thal 4,dementia,female,0.11244449,34,MTG_VLMC,GEM
+H20.33.030,High,Braak V,Frequent,Thal 4,normal,female,0.12652668,108,MTG_VLMC,GEM
+H20.33.031,High,Braak VI,Frequent,Thal 4,dementia,female,0.121514775,10,MTG_VLMC,GEM
+H20.33.032,High,Braak V,Moderate,Thal 5,normal,male,0.079296835,34,MTG_VLMC,GEM
+H20.33.033,High,Braak VI,Frequent,Thal 5,dementia,male,0.30518496,34,MTG_VLMC,GEM
+H20.33.034,Intermediate,Braak IV,Absent,Thal 3,normal,female,0.029846093,35,MTG_VLMC,GEM
+H20.33.035,Not AD,Braak IV,Absent,Thal 0,normal,female,0.0,13,MTG_VLMC,GEM
+H20.33.036,High,Braak V,Moderate,Thal 5,normal,female,0.15460116,68,MTG_VLMC,GEM
+H20.33.037,High,Braak V,Frequent,Thal 5,dementia,female,0.21645091,76,MTG_VLMC,GEM
+H20.33.038,High,Braak V,Frequent,Thal 4,dementia,female,0.16563706,37,MTG_VLMC,GEM
+H20.33.039,High,Braak V,Frequent,Thal 4,normal,female,0.048695575,24,MTG_VLMC,GEM
+H20.33.040,Intermediate,Braak IV,Frequent,Thal 4,dementia,male,0.022396008,35,MTG_VLMC,GEM
+H20.33.041,High,Braak V,Moderate,Thal 4,dementia,female,0.49016526,14,MTG_VLMC,GEM
+H20.33.043,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.0,26,MTG_VLMC,GEM
+H20.33.044,Not AD,Braak V,Absent,Thal 0,normal,male,0.13686004,28,MTG_VLMC,GEM
+H20.33.045,High,Braak VI,Frequent,Thal 5,dementia,female,0.049794096,76,MTG_VLMC,GEM
+H20.33.046,High,Braak VI,Frequent,Thal 5,dementia,male,0.08496004,97,MTG_VLMC,GEM
+H21.33.001,Low,Braak III,Absent,Thal 2,dementia,male,0.46169162,32,MTG_VLMC,GEM
+H21.33.002,High,Braak VI,Frequent,Thal 5,dementia,female,0.2798801,84,MTG_VLMC,GEM
+H21.33.003,Not AD,Braak 0,Absent,Thal 0,normal,male,0.4306403,31,MTG_VLMC,GEM
+H21.33.004,Not AD,Braak II,Absent,Thal 0,normal,male,0.09649715,21,MTG_VLMC,GEM
+H21.33.005,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.05456548,51,MTG_VLMC,GEM
+H21.33.006,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.05808746,21,MTG_VLMC,GEM
+H21.33.007,High,Braak V,Frequent,Thal 4,dementia,female,0.21198916,61,MTG_VLMC,GEM
+H21.33.008,High,Braak V,Frequent,Thal 4,dementia,female,0.0,43,MTG_VLMC,GEM
+H21.33.009,High,Braak VI,Frequent,Thal 5,dementia,female,0.26903954,62,MTG_VLMC,GEM
+H21.33.010,High,Braak VI,Frequent,Thal 5,dementia,female,0.095198646,144,MTG_VLMC,GEM
+H21.33.011,Not AD,Braak IV,Absent,Thal 0,normal,female,0.09560791,20,MTG_VLMC,GEM
+H21.33.012,Intermediate,Braak IV,Sparse,Thal 3,dementia,female,0.044669103,50,MTG_VLMC,GEM
+H21.33.013,High,Braak V,Moderate,Thal 4,dementia,female,0.19953251,25,MTG_VLMC,GEM
+H21.33.014,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.0,5,MTG_VLMC,GEM
+H21.33.015,Low,Braak IV,Sparse,Thal 2,normal,male,0.10724217,50,MTG_VLMC,GEM
+H21.33.016,Low,Braak IV,Absent,Thal 1,dementia,female,0.0,13,MTG_VLMC,GEM
+H21.33.017,High,Braak V,Frequent,Thal 5,dementia,female,0.082873024,39,MTG_VLMC,GEM
+H21.33.018,Low,Braak II,Frequent,Thal 3,dementia,female,0.07289141,37,MTG_VLMC,GEM
+H21.33.019,Low,Braak 0,Sparse,Thal 1,normal,male,0.25688505,50,MTG_VLMC,GEM
+H21.33.020,High,Braak V,Frequent,Thal 4,dementia,male,0.43551403,50,MTG_VLMC,GEM
+H21.33.021,Intermediate,Braak III,Moderate,Thal 4,dementia,male,0.1688629,63,MTG_VLMC,GEM
+H21.33.022,Intermediate,Braak VI,Moderate,Thal 2,normal,female,0.41767406,84,MTG_VLMC,GEM
+H21.33.023,Not AD,Braak IV,Absent,Thal 0,normal,male,0.06595652,32,MTG_VLMC,GEM
+H21.33.025,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.34924725,65,MTG_VLMC,GEM
+H21.33.026,High,Braak V,Frequent,Thal 4,normal,female,0.085018754,43,MTG_VLMC,GEM
+H21.33.027,High,Braak V,Moderate,Thal 5,dementia,male,0.042597935,197,MTG_VLMC,GEM
+H21.33.028,Low,Braak II,Absent,Thal 1,normal,male,0.05328141,58,MTG_VLMC,GEM
+H21.33.029,High,Braak V,Frequent,Thal 5,dementia,male,0.047397036,35,MTG_VLMC,GEM
+H21.33.030,Intermediate,Braak III,Moderate,Thal 3,normal,male,0.12716648,25,MTG_VLMC,GEM
+H21.33.031,High,Braak V,Moderate,Thal 5,dementia,male,0.12300925,43,MTG_VLMC,GEM
+H21.33.032,Low,Braak IV,Sparse,Thal 2,normal,female,0.01666375,43,MTG_VLMC,GEM
+H21.33.033,High,Braak V,Moderate,Thal 5,normal,female,0.038517527,52,MTG_VLMC,GEM
+H21.33.034,High,Braak VI,Frequent,Thal 5,dementia,female,0.32189104,19,MTG_VLMC,GEM
+H21.33.035,High,Braak V,Moderate,Thal 5,normal,female,0.20100284,70,MTG_VLMC,GEM
+H21.33.036,High,Braak V,Frequent,Thal 4,normal,female,0.07812985,26,MTG_VLMC,GEM
+H21.33.037,Low,Braak IV,Absent,Thal 2,normal,female,0.024299787,29,MTG_VLMC,GEM
+H21.33.038,Low,Braak III,Absent,Thal 1,normal,female,0.022791065,25,MTG_VLMC,GEM
+H21.33.039,High,Braak V,Moderate,Thal 4,dementia,female,1.1296129,19,MTG_VLMC,GEM
+H21.33.040,High,Braak V,Frequent,Thal 4,normal,male,0.19955878,47,MTG_VLMC,GEM
+H21.33.041,Not AD,Braak IV,Absent,Thal 0,normal,female,0.021727305,36,MTG_VLMC,GEM
+H21.33.042,High,Braak V,Moderate,Thal 5,dementia,female,0.10213079,30,MTG_VLMC,GEM
+H21.33.043,Low,Braak II,Sparse,Thal 4,dementia,female,0.21348022,44,MTG_VLMC,GEM
+H21.33.044,Intermediate,Braak VI,Frequent,Thal 3,dementia,female,0.28924435,33,MTG_VLMC,GEM
+H21.33.045,High,Braak VI,Frequent,Thal 4,dementia,female,0.11693743,115,MTG_VLMC,GEM
+H21.33.046,High,Braak V,Moderate,Thal 4,dementia,male,0.0,32,MTG_VLMC,GEM
+H21.33.047,Intermediate,Braak V,Frequent,Thal 2,normal,male,0.19191356,21,MTG_VLMC,GEM
+H18.30.002,Reference,Reference,Reference,Reference,normal,male,0.22670877,38,DLPFC_VLMC,GEM
+H19.30.001,Reference,Reference,Reference,Reference,normal,male,0.0,6,DLPFC_VLMC,GEM
+H19.30.002,Reference,Reference,Reference,Reference,normal,male,0.06212355,23,DLPFC_VLMC,GEM
+H19.33.004,Not AD,Braak IV,Absent,Thal 0,normal,female,0.09134232,87,DLPFC_VLMC,GEM
+H20.33.001,Low,Braak IV,Sparse,Thal 2,normal,male,0.54263896,43,DLPFC_VLMC,GEM
+H20.33.002,Not AD,Braak IV,Absent,Thal 0,normal,female,0.13641647,31,DLPFC_VLMC,GEM
+H20.33.004,High,Braak V,Frequent,Thal 5,dementia,male,0.37648013,22,DLPFC_VLMC,GEM
+H20.33.005,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.062342566,49,DLPFC_VLMC,GEM
+H20.33.008,High,Braak V,Moderate,Thal 4,normal,female,0.062561825,14,DLPFC_VLMC,GEM
+H20.33.011,High,Braak V,Moderate,Thal 5,dementia,female,0.052156184,43,DLPFC_VLMC,GEM
+H20.33.012,Low,Braak III,Absent,Thal 1,normal,female,0.19374207,67,DLPFC_VLMC,GEM
+H20.33.013,Intermediate,Braak IV,Moderate,Thal 3,normal,male,0.045424182,39,DLPFC_VLMC,GEM
+H20.33.014,Intermediate,Braak IV,Sparse,Thal 3,normal,female,0.12286189,26,DLPFC_VLMC,GEM
+H20.33.015,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.23384039,52,DLPFC_VLMC,GEM
+H20.33.016,Intermediate,Braak IV,Moderate,Thal 4,dementia,female,0.16063324,65,DLPFC_VLMC,GEM
+H20.33.017,High,Braak VI,Frequent,Thal 4,dementia,male,0.11222773,131,DLPFC_VLMC,GEM
+H20.33.018,High,Braak VI,Frequent,Thal 5,dementia,female,0.20043634,144,DLPFC_VLMC,GEM
+H20.33.019,Intermediate,Braak III,Sparse,Thal 4,normal,female,0.35565645,46,DLPFC_VLMC,GEM
+H20.33.020,High,Braak VI,Frequent,Thal 5,dementia,male,0.089482054,40,DLPFC_VLMC,GEM
+H20.33.024,Intermediate,Braak V,Sparse,Thal 4,normal,male,0.14003447,32,DLPFC_VLMC,GEM
+H20.33.025,High,Braak V,Moderate,Thal 4,normal,male,0.10083218,54,DLPFC_VLMC,GEM
+H20.33.026,High,Braak VI,Frequent,Thal 4,dementia,female,0.04117446,28,DLPFC_VLMC,GEM
+H20.33.027,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.22401921,65,DLPFC_VLMC,GEM
+H20.33.028,High,Braak V,Moderate,Thal 4,dementia,female,0.18470027,121,DLPFC_VLMC,GEM
+H20.33.029,High,Braak V,Moderate,Thal 4,dementia,female,0.116701484,61,DLPFC_VLMC,GEM
+H20.33.030,High,Braak V,Frequent,Thal 4,normal,female,0.12839752,115,DLPFC_VLMC,GEM
+H20.33.031,High,Braak VI,Frequent,Thal 4,dementia,female,0.0087136645,71,DLPFC_VLMC,GEM
+H20.33.032,High,Braak V,Moderate,Thal 5,normal,male,0.11511054,47,DLPFC_VLMC,GEM
+H20.33.033,High,Braak VI,Frequent,Thal 5,dementia,male,0.42318758,109,DLPFC_VLMC,GEM
+H20.33.034,Intermediate,Braak IV,Absent,Thal 3,normal,female,0.14683716,84,DLPFC_VLMC,GEM
+H20.33.035,Not AD,Braak IV,Absent,Thal 0,normal,female,0.07520344,70,DLPFC_VLMC,GEM
+H20.33.036,High,Braak V,Moderate,Thal 5,normal,female,0.23225415,93,DLPFC_VLMC,GEM
+H20.33.037,High,Braak V,Frequent,Thal 5,dementia,female,0.3274467,65,DLPFC_VLMC,GEM
+H20.33.038,High,Braak V,Frequent,Thal 4,dementia,female,0.14741911,60,DLPFC_VLMC,GEM
+H20.33.039,High,Braak V,Frequent,Thal 4,normal,female,0.055158813,139,DLPFC_VLMC,GEM
+H20.33.040,Intermediate,Braak IV,Frequent,Thal 4,dementia,male,0.055954568,86,DLPFC_VLMC,GEM
+H20.33.041,High,Braak V,Moderate,Thal 4,dementia,female,0.34461704,37,DLPFC_VLMC,GEM
+H20.33.044,Not AD,Braak V,Absent,Thal 0,normal,male,0.17310497,66,DLPFC_VLMC,GEM
+H20.33.045,High,Braak VI,Frequent,Thal 5,dementia,female,0.12787926,44,DLPFC_VLMC,GEM
+H20.33.046,High,Braak VI,Frequent,Thal 5,dementia,male,0.1866405,73,DLPFC_VLMC,GEM
+H21.33.001,Low,Braak III,Absent,Thal 2,dementia,male,0.13747874,29,DLPFC_VLMC,GEM
+H21.33.002,High,Braak VI,Frequent,Thal 5,dementia,female,0.27956238,56,DLPFC_VLMC,GEM
+H21.33.003,Not AD,Braak 0,Absent,Thal 0,normal,male,0.5100903,63,DLPFC_VLMC,GEM
+H21.33.004,Not AD,Braak II,Absent,Thal 0,normal,male,0.0,29,DLPFC_VLMC,GEM
+H21.33.005,Intermediate,Braak V,Moderate,Thal 3,dementia,male,0.1295484,118,DLPFC_VLMC,GEM
+H21.33.006,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.04748751,51,DLPFC_VLMC,GEM
+H21.33.007,High,Braak V,Frequent,Thal 4,dementia,female,0.075036705,76,DLPFC_VLMC,GEM
+H21.33.008,High,Braak V,Frequent,Thal 4,dementia,female,0.127986,66,DLPFC_VLMC,GEM
+H21.33.011,Not AD,Braak IV,Absent,Thal 0,normal,female,0.20629004,28,DLPFC_VLMC,GEM
+H21.33.012,Intermediate,Braak IV,Sparse,Thal 3,dementia,female,0.2980032,95,DLPFC_VLMC,GEM
+H21.33.013,High,Braak V,Moderate,Thal 4,dementia,female,0.2139222,44,DLPFC_VLMC,GEM
+H21.33.014,Intermediate,Braak IV,Sparse,Thal 4,normal,male,0.10459906,64,DLPFC_VLMC,GEM
+H21.33.015,Low,Braak IV,Sparse,Thal 2,normal,male,0.12714358,137,DLPFC_VLMC,GEM
+H21.33.016,Low,Braak IV,Absent,Thal 1,dementia,female,0.24111009,33,DLPFC_VLMC,GEM
+H21.33.017,High,Braak V,Frequent,Thal 5,dementia,female,0.063258454,97,DLPFC_VLMC,GEM
+H21.33.018,Low,Braak II,Frequent,Thal 3,dementia,female,0.31018156,28,DLPFC_VLMC,GEM
+H21.33.019,Low,Braak 0,Sparse,Thal 1,normal,male,0.45408207,7,DLPFC_VLMC,GEM
+H21.33.020,High,Braak V,Frequent,Thal 4,dementia,male,0.26975897,43,DLPFC_VLMC,GEM
+H21.33.021,Intermediate,Braak III,Moderate,Thal 4,dementia,male,0.1309954,45,DLPFC_VLMC,GEM
+H21.33.022,Intermediate,Braak VI,Moderate,Thal 2,normal,female,0.75346804,53,DLPFC_VLMC,GEM
+H21.33.023,Not AD,Braak IV,Absent,Thal 0,normal,male,0.22621512,66,DLPFC_VLMC,GEM
+H21.33.025,Intermediate,Braak IV,Moderate,Thal 3,normal,female,0.3133917,11,DLPFC_VLMC,GEM
+H21.33.026,High,Braak V,Frequent,Thal 4,normal,female,0.08544513,40,DLPFC_VLMC,GEM
+H21.33.027,High,Braak V,Moderate,Thal 5,dementia,male,0.1645906,68,DLPFC_VLMC,GEM
+H21.33.028,Low,Braak II,Absent,Thal 1,normal,male,0.063453704,43,DLPFC_VLMC,GEM
+H21.33.029,High,Braak V,Frequent,Thal 5,dementia,male,0.40747553,95,DLPFC_VLMC,GEM
+H21.33.030,Intermediate,Braak III,Moderate,Thal 3,normal,male,0.13014077,23,DLPFC_VLMC,GEM
+H21.33.031,High,Braak V,Moderate,Thal 5,dementia,male,0.105803326,13,DLPFC_VLMC,GEM
+H21.33.032,Low,Braak IV,Sparse,Thal 2,normal,female,0.09841685,51,DLPFC_VLMC,GEM
+H21.33.033,High,Braak V,Moderate,Thal 5,normal,female,0.06694312,105,DLPFC_VLMC,GEM
+H21.33.034,High,Braak VI,Frequent,Thal 5,dementia,female,0.5282703,22,DLPFC_VLMC,GEM
+H21.33.035,High,Braak V,Moderate,Thal 5,normal,female,0.3233792,79,DLPFC_VLMC,GEM
+H21.33.036,High,Braak V,Frequent,Thal 4,normal,female,0.12687014,43,DLPFC_VLMC,GEM
+H21.33.037,Low,Braak IV,Absent,Thal 2,normal,female,0.033573944,73,DLPFC_VLMC,GEM
+H21.33.038,Low,Braak III,Absent,Thal 1,normal,female,0.0,40,DLPFC_VLMC,GEM
+H21.33.040,High,Braak V,Frequent,Thal 4,normal,male,0.13853763,91,DLPFC_VLMC,GEM
+H21.33.041,Not AD,Braak IV,Absent,Thal 0,normal,female,0.12729508,39,DLPFC_VLMC,GEM
+H21.33.042,High,Braak V,Moderate,Thal 5,dementia,female,0.43706572,15,DLPFC_VLMC,GEM
+H21.33.043,Low,Braak II,Sparse,Thal 4,dementia,female,0.13721381,43,DLPFC_VLMC,GEM
+H21.33.044,Intermediate,Braak VI,Frequent,Thal 3,dementia,female,0.2356479,17,DLPFC_VLMC,GEM
+H21.33.045,High,Braak VI,Frequent,Thal 4,dementia,female,0.2273971,118,DLPFC_VLMC,GEM
+H21.33.046,High,Braak V,Moderate,Thal 4,dementia,male,0.16463727,95,DLPFC_VLMC,GEM
+H21.33.047,Intermediate,Braak V,Frequent,Thal 2,normal,male,0.09678607,22,DLPFC_VLMC,GEM

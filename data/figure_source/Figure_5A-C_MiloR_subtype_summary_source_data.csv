@@ -1,0 +1,11 @@
+Compartment,Subtype,Tested_neighborhoods,Significant_neighborhoods_FDR10,AD_enriched,CN_enriched,Min_SpatialFDR,Mean_logFC_significant,Interpretation,subtype_program,display,ad_n,cn_n,milo_direction
+Cerebrovascular cells,Arterial,2,2,0,2,0.00567245871634322,-2.95449813026665,Significant subtype axis,Cerebrovascular cells | Arterial,Cerebrovascular | Arterial,0,2,CN-enriched
+Cerebrovascular cells,Capillary,54,0,0,0,0.136684788649128,NA,Not significant at Spatial FDR < 0.10,Cerebrovascular cells | Capillary,Cerebrovascular | Capillary,0,0,Not significant
+Cerebrovascular cells,Pericyte,78,1,1,0,0.0900763355673141,1.20666235804431,Significant subtype axis,Cerebrovascular cells | Pericyte,Cerebrovascular | Pericyte,1,0,AD-enriched
+Cerebrovascular cells,SMC,23,19,0,19,8.5158840796318e-4,-2.784396844483074,Significant subtype axis,Cerebrovascular cells | SMC,Cerebrovascular | SMC,0,19,CN-enriched
+Cerebrovascular cells,Venous,45,0,0,0,0.23077897508518,NA,Not significant at Spatial FDR < 0.10,Cerebrovascular cells | Venous,Cerebrovascular | Venous,0,0,Not significant
+Astrocytes,Homeostatic,1597,11,1,10,1.6509133543695e-4,-1.5430122995143962,Significant subtype axis,Astrocytes | Homeostatic,Astrocytes | Homeostatic,1,10,CN-enriched
+Astrocytes,Intermediate,910,1,1,0,0.0896770301548071,1.68711227372876,Significant subtype axis,Astrocytes | Intermediate,Astrocytes | Intermediate,1,0,AD-enriched
+Astrocytes,Reactive,199,1,1,0,0.0506535104672991,1.95321823657334,Significant subtype axis,Astrocytes | Reactive,Astrocytes | Reactive,1,0,AD-enriched
+Microglia,DAM,1491,28,26,2,0.0456629014421446,1.3042903321355883,Significant subtype axis,Microglia | DAM,Microglia | DAM,26,2,AD-enriched
+Microglia,Homeostatic,452,0,0,0,0.196670727730185,NA,Not significant at Spatial FDR < 0.10,Microglia | Homeostatic,Microglia | Homeostatic,0,0,Not significant

@@ -1,0 +1,10 @@
+ligand,full_LIANA_contexts,glial_to_vascular_contexts,positive_glial_to_vascular_contexts,in_prior,in_input186,AUPR_rank,in_top20,in_display10,explanation
+TGFB1,1680,350,114,True,True,29.0,False,False,"Included in the 186-ligand input (rank 29); outside the top20 and display10. Example: Micro_DAM to CapEC_ActMid, ACVR1C_TGFBR2, delta +2.871247."
+TGFB2,469,93,37,True,True,184.0,False,False,"Included (rank 184); outside top20/display10. Astro_Intermediate to CapEC_ActMid, ACVR1C_TGFBR2, delta +4.047037."
+COL1A1,182,0,0,True,False,,False,False,No glial-to-vascular context in the filtered table. Displayed Pericyte to Astro_Reactive CD44 is the reverse direction (delta +3.168709).
+HBEGF,140,0,0,True,False,,False,False,No glial-to-vascular context. Displayed CapEC_ActLow to Astro_Reactive CD44 has a vascular sender (delta +2.981432).
+CXCL10,16,0,0,True,False,,False,False,No glial-to-vascular context. Displayed CapEC_ActHigh to Excitatory DPP4 has a vascular sender and neuronal receiver (delta +2.955449).
+SLIT2,639,22,0,True,False,,False,False,The 22 glial-to-vascular contexts have no positive AD-CN delta. Displayed Inhibitory to CapEC_ActHigh ROBO4 (delta +2.979288) has a neuronal sender.
+ADM,365,42,1,True,True,152.0,False,False,Included (rank 152) through Astro_Reactive to CapEC_ActLow RAMP3 (AD-CN delta +0.317255). The displayed CapEC_ActHigh to Pericyte PTH1R edge uses a different sender and an ActHigh-versus-ActLow contrast.
+VEGFC,364,46,5,True,True,168.0,False,False,"Included (rank 168): five positive glial-to-vascular contexts, all from Astro_Homeostatic. Example: CapEC_ActMid FLT4_KDR +0.140267. Negative Astro_Intermediate to CapEC_ActMid/ActHigh FLT1 edges do not determine the sign of other contexts."
+ANGPT2,171,14,0,True,False,,False,False,"Fourteen glial-to-vascular contexts, none with positive AD-CN delta. Displayed Fig6D TEK/TIE1/integrin edges use a vascular sender and ActHigh-versus-ActLow contrast. ANGPT2 is absent from the archived Fig6B displayed list."

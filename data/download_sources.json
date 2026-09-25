@@ -1,0 +1,13 @@
+{
+  "GSE118553": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE118nnn/GSE118553/matrix/GSE118553_series_matrix.txt.gz",
+    "sha256": "2b039a1c0edb9f2adb7034ecdf26d824b235b826370df102b9327f5e3095432b",
+    "bytes": 149479055
+  },
+  "SEA-AD donor metadata": {
+    "landing_page": "https://brain-map.org/consortia/sea-ad/our-data",
+    "download": "https://cdn.prod.website-files.com/689cfbd308fa7373b604d290/68debdfdd1b8e9f8fd64dab0_sea-ad_cohort_donor_metadata_072524.xlsx",
+    "sha256": "d18faa1c51f426bb2bf17ce431878cfacce673729c1ee185be84a51d31271146",
+    "accessed": "2026-09-10"
+  }
+}

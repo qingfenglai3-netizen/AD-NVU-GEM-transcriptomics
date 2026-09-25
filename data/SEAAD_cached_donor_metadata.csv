@@ -1,0 +1,343 @@
+donor_id,APOE4 status,Age at death,PMI,sex,disease,ADNC,Neurotypical reference,dataset
+H21.33.015,N,90+ years old,3.2 to 5.9 hours,male,normal,Low,False,DLPFC_Endothelial
+H21.33.036,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,DLPFC_Endothelial
+H21.33.045,Y,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,DLPFC_Endothelial
+H21.33.040,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,High,False,DLPFC_Endothelial
+H21.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,DLPFC_Endothelial
+H21.33.003,N,78 to 89 years old,8.7 to 11.4 hours,male,normal,Not AD,False,DLPFC_Endothelial
+H21.33.028,N,65 to 77 years old,5.9 to 8.7 hours,male,normal,Low,False,DLPFC_Endothelial
+H21.33.038,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Low,False,DLPFC_Endothelial
+H20.33.002,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,DLPFC_Endothelial
+H21.33.012,Y,90+ years old,3.2 to 5.9 hours,female,dementia,Intermediate,False,DLPFC_Endothelial
+H21.33.047,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_Endothelial
+H19.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,DLPFC_Endothelial
+H20.33.037,N,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.042,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.013,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.020,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_Endothelial
+H21.33.043,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,DLPFC_Endothelial
+H20.33.013,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_Endothelial
+H20.33.015,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,DLPFC_Endothelial
+H21.33.016,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,DLPFC_Endothelial
+H21.33.022,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H20.33.017,N,65 to 77 years old,3.2 to 5.9 hours,male,dementia,High,False,DLPFC_Endothelial
+H20.33.039,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,DLPFC_Endothelial
+H21.33.017,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.036,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,DLPFC_Endothelial
+H20.33.001,N,78 to 89 years old,5.9 to 8.7 hours,male,normal,Low,False,DLPFC_Endothelial
+H21.33.037,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Low,False,DLPFC_Endothelial
+H18.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,DLPFC_Endothelial
+H20.33.011,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.030,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.001,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Low,False,DLPFC_Endothelial
+H20.33.020,Y,78 to 89 years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_Endothelial
+H20.33.025,N,90+ years old,3.2 to 5.9 hours,male,normal,High,False,DLPFC_Endothelial
+H20.33.005,N,90+ years old,5.9 to 8.7 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_Endothelial
+H20.33.026,Y,65 to 77 years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.044,N,78 to 89 years old,3.2 to 5.9 hours,male,normal,Not AD,False,DLPFC_Endothelial
+H20.33.016,N,90+ years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,DLPFC_Endothelial
+H20.33.004,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_Endothelial
+H21.33.014,N,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.029,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_Endothelial
+H20.33.018,Y,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.033,N,65 to 77 years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_Endothelial
+H21.33.007,N,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.002,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.028,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.031,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_Endothelial
+H20.33.034,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.005,N,90+ years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,DLPFC_Endothelial
+H20.33.038,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.026,Y,90+ years old,3.2 to 5.9 hours,female,normal,High,False,DLPFC_Endothelial
+H21.33.023,N,90+ years old,5.9 to 8.7 hours,male,normal,Not AD,False,DLPFC_Endothelial
+H20.33.019,Y,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H19.33.004,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Not AD,False,DLPFC_Endothelial
+H20.33.032,N,90+ years old,5.9 to 8.7 hours,male,normal,High,False,DLPFC_Endothelial
+H21.33.033,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,DLPFC_Endothelial
+H20.33.012,N,90+ years old,5.9 to 8.7 hours,female,normal,Low,False,DLPFC_Endothelial
+H20.33.027,N,90+ years old,8.7 to 11.4 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H20.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_Endothelial
+H20.33.014,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H20.33.008,Y,90+ years old,5.9 to 8.7 hours,female,normal,High,False,DLPFC_Endothelial
+H20.33.029,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.040,N,90+ years old,3.2 to 5.9 hours,male,dementia,Intermediate,False,DLPFC_Endothelial
+H21.33.006,Y,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.011,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Not AD,False,DLPFC_Endothelial
+H20.33.030,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,DLPFC_Endothelial
+H21.33.025,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.034,Y,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.041,N,90+ years old,5.9 to 8.7 hours,female,normal,Not AD,False,DLPFC_Endothelial
+H20.33.024,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_Endothelial
+H21.33.032,N,90+ years old,3.2 to 5.9 hours,female,normal,Low,False,DLPFC_Endothelial
+H20.33.041,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.031,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_Endothelial
+H20.33.045,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.044,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,DLPFC_Endothelial
+H21.33.021,N,90+ years old,5.9 to 8.7 hours,male,dementia,Intermediate,False,DLPFC_Endothelial
+H21.33.019,N,65 to 77 years old,8.7 to 11.4 hours,male,normal,Low,False,DLPFC_Endothelial
+H19.30.001,Reference,Less than 65 years old,Reference,male,normal,Reference,True,DLPFC_Endothelial
+H21.33.004,N,90+ years old,3.2 to 5.9 hours,male,normal,Not AD,False,DLPFC_Endothelial
+H21.33.027,Y,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_Endothelial
+H21.33.018,N,78 to 89 years old,8.7 to 11.4 hours,female,dementia,Low,False,DLPFC_Endothelial
+H21.33.008,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_Endothelial
+H21.33.045,Y,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.022,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H21.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.029,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.027,N,90+ years old,8.7 to 11.4 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H21.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_VLMC
+H21.33.015,N,90+ years old,3.2 to 5.9 hours,male,normal,Low,False,DLPFC_VLMC
+H19.33.004,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Not AD,False,DLPFC_VLMC
+H20.33.020,Y,78 to 89 years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.041,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H20.33.015,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,DLPFC_VLMC
+H20.33.034,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H20.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,DLPFC_VLMC
+H21.33.033,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.040,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,High,False,DLPFC_VLMC
+H20.33.017,N,65 to 77 years old,3.2 to 5.9 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.030,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.014,N,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,DLPFC_VLMC
+H20.33.025,N,90+ years old,3.2 to 5.9 hours,male,normal,High,False,DLPFC_VLMC
+H20.33.033,N,65 to 77 years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.029,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.032,N,90+ years old,3.2 to 5.9 hours,female,normal,Low,False,DLPFC_VLMC
+H20.33.018,Y,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.005,N,90+ years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,DLPFC_VLMC
+H20.33.014,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H21.33.003,N,78 to 89 years old,8.7 to 11.4 hours,male,normal,Not AD,False,DLPFC_VLMC
+H20.33.040,N,90+ years old,3.2 to 5.9 hours,male,dementia,Intermediate,False,DLPFC_VLMC
+H20.33.044,N,78 to 89 years old,3.2 to 5.9 hours,male,normal,Not AD,False,DLPFC_VLMC
+H20.33.036,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,DLPFC_VLMC
+H20.33.019,Y,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H21.33.002,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.026,Y,90+ years old,3.2 to 5.9 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.008,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H20.33.032,N,90+ years old,5.9 to 8.7 hours,male,normal,High,False,DLPFC_VLMC
+H18.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,DLPFC_VLMC
+H20.33.038,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H20.33.039,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.043,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,DLPFC_VLMC
+H21.33.044,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,DLPFC_VLMC
+H21.33.028,N,65 to 77 years old,5.9 to 8.7 hours,male,normal,Low,False,DLPFC_VLMC
+H20.33.028,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.047,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_VLMC
+H20.33.005,N,90+ years old,5.9 to 8.7 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H20.33.002,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,DLPFC_VLMC
+H21.33.017,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.018,N,78 to 89 years old,8.7 to 11.4 hours,female,dementia,Low,False,DLPFC_VLMC
+H20.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.013,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_VLMC
+H21.33.016,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,DLPFC_VLMC
+H20.33.037,N,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.012,Y,90+ years old,3.2 to 5.9 hours,female,dementia,Intermediate,False,DLPFC_VLMC
+H21.33.023,N,90+ years old,5.9 to 8.7 hours,male,normal,Not AD,False,DLPFC_VLMC
+H20.33.001,N,78 to 89 years old,5.9 to 8.7 hours,male,normal,Low,False,DLPFC_VLMC
+H19.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,DLPFC_VLMC
+H21.33.020,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.008,Y,90+ years old,5.9 to 8.7 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.004,N,90+ years old,3.2 to 5.9 hours,male,normal,Not AD,False,DLPFC_VLMC
+H21.33.011,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Not AD,False,DLPFC_VLMC
+H20.33.012,N,90+ years old,5.9 to 8.7 hours,female,normal,Low,False,DLPFC_VLMC
+H21.33.013,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H20.33.045,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.036,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,DLPFC_VLMC
+H21.33.001,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Low,False,DLPFC_VLMC
+H20.33.016,N,90+ years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,DLPFC_VLMC
+H20.33.024,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_VLMC
+H21.33.007,N,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.037,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Low,False,DLPFC_VLMC
+H21.33.034,Y,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.006,Y,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,DLPFC_VLMC
+H21.33.021,N,90+ years old,5.9 to 8.7 hours,male,dementia,Intermediate,False,DLPFC_VLMC
+H21.33.027,Y,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,DLPFC_VLMC
+H21.33.042,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.038,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Low,False,DLPFC_VLMC
+H20.33.011,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H20.33.031,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.030,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,Intermediate,False,DLPFC_VLMC
+H21.33.025,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,DLPFC_VLMC
+H20.33.004,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_VLMC
+H20.33.026,Y,65 to 77 years old,5.9 to 8.7 hours,female,dementia,High,False,DLPFC_VLMC
+H21.33.019,N,65 to 77 years old,8.7 to 11.4 hours,male,normal,Low,False,DLPFC_VLMC
+H21.33.041,N,90+ years old,5.9 to 8.7 hours,female,normal,Not AD,False,DLPFC_VLMC
+H21.33.031,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,DLPFC_VLMC
+H19.30.001,Reference,Less than 65 years old,Reference,male,normal,Reference,True,DLPFC_VLMC
+H20.33.037,N,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.008,Y,90+ years old,5.9 to 8.7 hours,female,normal,High,False,MTG_Endothelial
+H20.33.005,N,90+ years old,5.9 to 8.7 hours,female,normal,Intermediate,False,MTG_Endothelial
+H20.33.032,N,90+ years old,5.9 to 8.7 hours,male,normal,High,False,MTG_Endothelial
+H20.33.025,N,90+ years old,3.2 to 5.9 hours,male,normal,High,False,MTG_Endothelial
+H19.33.004,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Not AD,False,MTG_Endothelial
+H20.33.036,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,MTG_Endothelial
+H21.33.029,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_Endothelial
+H21.33.027,Y,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_Endothelial
+H21.33.013,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.030,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,MTG_Endothelial
+H21.33.034,Y,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_Endothelial
+H20.33.011,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.017,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.015,N,90+ years old,3.2 to 5.9 hours,male,normal,Low,False,MTG_Endothelial
+H21.33.047,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_Endothelial
+H21.33.031,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_Endothelial
+H21.33.023,N,90+ years old,5.9 to 8.7 hours,male,normal,Not AD,False,MTG_Endothelial
+H21.33.026,Y,90+ years old,3.2 to 5.9 hours,female,normal,High,False,MTG_Endothelial
+H20.33.040,N,90+ years old,3.2 to 5.9 hours,male,dementia,Intermediate,False,MTG_Endothelial
+H21.33.001,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Low,False,MTG_Endothelial
+H20.33.013,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_Endothelial
+H21.33.025,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,MTG_Endothelial
+H20.33.017,N,65 to 77 years old,3.2 to 5.9 hours,male,dementia,High,False,MTG_Endothelial
+H20.33.001,N,78 to 89 years old,5.9 to 8.7 hours,male,normal,Low,False,MTG_Endothelial
+H19.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,MTG_Endothelial
+H20.33.044,N,78 to 89 years old,3.2 to 5.9 hours,male,normal,Not AD,False,MTG_Endothelial
+H21.33.004,N,90+ years old,3.2 to 5.9 hours,male,normal,Not AD,False,MTG_Endothelial
+H20.33.018,Y,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.040,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,High,False,MTG_Endothelial
+H20.33.033,N,65 to 77 years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_Endothelial
+H18.30.001,Reference,Less than 65 years old,Reference,female,normal,Reference,True,MTG_Endothelial
+H21.33.010,N,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.020,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_Endothelial
+H21.33.007,N,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_Endothelial
+H21.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,MTG_Endothelial
+H21.33.009,Y,65 to 77 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.034,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,MTG_Endothelial
+H21.33.037,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Low,False,MTG_Endothelial
+H20.33.012,N,90+ years old,5.9 to 8.7 hours,female,normal,Low,False,MTG_Endothelial
+H21.33.041,N,90+ years old,5.9 to 8.7 hours,female,normal,Not AD,False,MTG_Endothelial
+H21.33.003,N,78 to 89 years old,8.7 to 11.4 hours,male,normal,Not AD,False,MTG_Endothelial
+H21.33.019,N,65 to 77 years old,8.7 to 11.4 hours,male,normal,Low,False,MTG_Endothelial
+H20.33.028,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.014,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,MTG_Endothelial
+H21.33.005,N,90+ years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,MTG_Endothelial
+H21.33.022,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Intermediate,False,MTG_Endothelial
+H21.33.042,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.043,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_Endothelial
+H21.33.014,N,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,MTG_Endothelial
+H21.33.018,N,78 to 89 years old,8.7 to 11.4 hours,female,dementia,Low,False,MTG_Endothelial
+H20.33.027,N,90+ years old,8.7 to 11.4 hours,female,normal,Intermediate,False,MTG_Endothelial
+H20.33.020,Y,78 to 89 years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_Endothelial
+H20.33.002,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,MTG_Endothelial
+H20.33.015,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,MTG_Endothelial
+H19.30.001,Reference,Less than 65 years old,Reference,male,normal,Reference,True,MTG_Endothelial
+H20.33.039,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,MTG_Endothelial
+H21.33.008,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.041,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.012,Y,90+ years old,3.2 to 5.9 hours,female,dementia,Intermediate,False,MTG_Endothelial
+H21.33.030,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_Endothelial
+H20.33.045,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H20.33.019,Y,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,MTG_Endothelial
+H21.33.032,N,90+ years old,3.2 to 5.9 hours,female,normal,Low,False,MTG_Endothelial
+H20.33.031,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.028,N,65 to 77 years old,5.9 to 8.7 hours,male,normal,Low,False,MTG_Endothelial
+H21.33.016,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,MTG_Endothelial
+H21.33.045,Y,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.044,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,MTG_Endothelial
+H21.33.002,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.038,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Low,False,MTG_Endothelial
+H21.33.043,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,MTG_Endothelial
+H21.33.021,N,90+ years old,5.9 to 8.7 hours,male,dementia,Intermediate,False,MTG_Endothelial
+H20.33.004,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_Endothelial
+H20.33.026,Y,65 to 77 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.011,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Not AD,False,MTG_Endothelial
+H21.33.033,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,MTG_Endothelial
+H20.33.029,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H18.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,MTG_Endothelial
+H20.33.038,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H200.1023,Reference,Less than 65 years old,Reference,female,normal,Reference,True,MTG_Endothelial
+H20.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,MTG_Endothelial
+H20.33.016,N,90+ years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,MTG_Endothelial
+H20.33.024,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_Endothelial
+H21.33.006,Y,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,MTG_Endothelial
+H21.33.039,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_Endothelial
+H21.33.036,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,MTG_Endothelial
+H21.33.002,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H21.33.005,N,90+ years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,MTG_VLMC
+H20.33.037,N,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,MTG_VLMC
+H20.33.030,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,MTG_VLMC
+H21.33.027,Y,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_VLMC
+H21.33.021,N,90+ years old,5.9 to 8.7 hours,male,dementia,Intermediate,False,MTG_VLMC
+H19.30.001,Reference,Less than 65 years old,Reference,male,normal,Reference,True,MTG_VLMC
+H20.33.017,N,65 to 77 years old,3.2 to 5.9 hours,male,dementia,High,False,MTG_VLMC
+H21.33.032,N,90+ years old,3.2 to 5.9 hours,female,normal,Low,False,MTG_VLMC
+H20.33.026,Y,65 to 77 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H20.33.020,Y,78 to 89 years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_VLMC
+H21.33.031,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_VLMC
+H20.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_VLMC
+H20.33.045,Y,65 to 77 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H21.33.033,Y,78 to 89 years old,5.9 to 8.7 hours,female,normal,High,False,MTG_VLMC
+H21.33.026,Y,90+ years old,3.2 to 5.9 hours,female,normal,High,False,MTG_VLMC
+H20.33.038,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H20.33.012,N,90+ years old,5.9 to 8.7 hours,female,normal,Low,False,MTG_VLMC
+H20.33.008,Y,90+ years old,5.9 to 8.7 hours,female,normal,High,False,MTG_VLMC
+H20.33.015,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Intermediate,False,MTG_VLMC
+H21.33.010,N,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,MTG_VLMC
+H21.33.001,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,Low,False,MTG_VLMC
+H20.33.036,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,MTG_VLMC
+H21.33.045,Y,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H20.33.001,N,78 to 89 years old,5.9 to 8.7 hours,male,normal,Low,False,MTG_VLMC
+H19.33.004,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Not AD,False,MTG_VLMC
+H21.33.019,N,65 to 77 years old,8.7 to 11.4 hours,male,normal,Low,False,MTG_VLMC
+H21.33.017,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H20.33.018,Y,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H21.33.012,Y,90+ years old,3.2 to 5.9 hours,female,dementia,Intermediate,False,MTG_VLMC
+H21.33.007,N,78 to 89 years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H21.33.037,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Low,False,MTG_VLMC
+H21.33.039,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H21.33.020,N,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_VLMC
+H20.33.028,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H21.33.030,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_VLMC
+H21.33.041,N,90+ years old,5.9 to 8.7 hours,female,normal,Not AD,False,MTG_VLMC
+H21.33.011,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Not AD,False,MTG_VLMC
+H20.33.004,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_VLMC
+H20.33.013,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_VLMC
+H21.33.038,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Low,False,MTG_VLMC
+H21.33.009,Y,65 to 77 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H21.33.023,N,90+ years old,5.9 to 8.7 hours,male,normal,Not AD,False,MTG_VLMC
+H21.33.040,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,High,False,MTG_VLMC
+H20.33.039,N,90+ years old,8.7 to 11.4 hours,female,normal,High,False,MTG_VLMC
+H21.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,MTG_VLMC
+H21.33.025,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,MTG_VLMC
+H20.33.032,N,90+ years old,5.9 to 8.7 hours,male,normal,High,False,MTG_VLMC
+H21.33.047,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_VLMC
+H21.33.029,Y,78 to 89 years old,8.7 to 11.4 hours,male,dementia,High,False,MTG_VLMC
+H21.33.043,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,MTG_VLMC
+H20.33.019,Y,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,MTG_VLMC
+H20.33.005,N,90+ years old,5.9 to 8.7 hours,female,normal,Intermediate,False,MTG_VLMC
+H20.33.027,N,90+ years old,8.7 to 11.4 hours,female,normal,Intermediate,False,MTG_VLMC
+H21.33.018,N,78 to 89 years old,8.7 to 11.4 hours,female,dementia,Low,False,MTG_VLMC
+H21.33.044,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,MTG_VLMC
+H21.33.046,N,90+ years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_VLMC
+H21.33.022,N,78 to 89 years old,3.2 to 5.9 hours,female,normal,Intermediate,False,MTG_VLMC
+H21.33.006,Y,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,MTG_VLMC
+H20.33.034,N,78 to 89 years old,8.7 to 11.4 hours,female,normal,Intermediate,False,MTG_VLMC
+H20.33.035,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,MTG_VLMC
+H20.33.002,N,90+ years old,3.2 to 5.9 hours,female,normal,Not AD,False,MTG_VLMC
+H21.33.004,N,90+ years old,3.2 to 5.9 hours,male,normal,Not AD,False,MTG_VLMC
+H21.33.008,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H20.33.029,N,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H19.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,MTG_VLMC
+H21.33.015,N,90+ years old,3.2 to 5.9 hours,male,normal,Low,False,MTG_VLMC
+H20.33.031,N,78 to 89 years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H21.33.013,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H21.33.036,N,90+ years old,3.2 to 5.9 hours,female,normal,High,False,MTG_VLMC
+H20.33.014,N,78 to 89 years old,5.9 to 8.7 hours,female,normal,Intermediate,False,MTG_VLMC
+H21.33.034,Y,90+ years old,8.7 to 11.4 hours,female,dementia,High,False,MTG_VLMC
+H20.33.044,N,78 to 89 years old,3.2 to 5.9 hours,male,normal,Not AD,False,MTG_VLMC
+H20.33.043,Y,78 to 89 years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_VLMC
+H20.33.016,N,90+ years old,5.9 to 8.7 hours,female,dementia,Intermediate,False,MTG_VLMC
+H21.33.014,N,90+ years old,8.7 to 11.4 hours,male,normal,Intermediate,False,MTG_VLMC
+H20.33.011,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H18.30.002,Reference,Less than 65 years old,Reference,male,normal,Reference,True,MTG_VLMC
+H20.33.025,N,90+ years old,3.2 to 5.9 hours,male,normal,High,False,MTG_VLMC
+H20.33.041,N,90+ years old,3.2 to 5.9 hours,female,dementia,High,False,MTG_VLMC
+H21.33.016,N,90+ years old,3.2 to 5.9 hours,female,dementia,Low,False,MTG_VLMC
+H21.33.003,N,78 to 89 years old,8.7 to 11.4 hours,male,normal,Not AD,False,MTG_VLMC
+H21.33.042,Y,90+ years old,5.9 to 8.7 hours,female,dementia,High,False,MTG_VLMC
+H20.33.040,N,90+ years old,3.2 to 5.9 hours,male,dementia,Intermediate,False,MTG_VLMC
+H21.33.028,N,65 to 77 years old,5.9 to 8.7 hours,male,normal,Low,False,MTG_VLMC
+H20.33.033,N,65 to 77 years old,5.9 to 8.7 hours,male,dementia,High,False,MTG_VLMC
+H20.33.024,N,90+ years old,3.2 to 5.9 hours,male,normal,Intermediate,False,MTG_VLMC

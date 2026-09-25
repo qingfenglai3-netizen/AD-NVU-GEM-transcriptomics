@@ -1,0 +1,11 @@
+Compartment,Subtype,display,Significant_neighborhoods_FDR10,AD_enriched,CN_enriched,Mean_logFC_significant,Min_SpatialFDR,milo_direction,bulk_delta,bulk_padj,bulk_direction,evidence_class,priority_rank
+Astrocytes,Reactive,Astrocytes | Reactive,1,1,0,1.95321823657334,0.0506535104672991,AD-enriched,0.0385266426533879,1.44889011608287e-11,AD-enriched,Convergent AD,1
+Astrocytes,Intermediate,Astrocytes | Intermediate,1,1,0,1.68711227372876,0.0896770301548071,AD-enriched,0.038575739590363,1.71143506974442e-5,AD-enriched,Convergent AD,1
+Microglia,DAM,Microglia | DAM,28,26,2,1.3042903321355883,0.0456629014421446,AD-enriched,0.0265539835355668,0.00492211568797012,AD-enriched,Convergent AD,1
+Cerebrovascular cells,Pericyte,Cerebrovascular | Pericyte,1,1,0,1.20666235804431,0.0900763355673141,AD-enriched,0.0109841756215308,0.0113013849059999,AD-enriched,Convergent AD,1
+Cerebrovascular cells,Capillary,Cerebrovascular | Capillary,0,0,0,NA,0.136684788649128,Not significant,0.0188359903938289,0.0110721255336143,AD-enriched,AD-supported,2
+Cerebrovascular cells,Venous,Cerebrovascular | Venous,0,0,0,NA,0.23077897508518,Not significant,0.0144407602708438,1.50656820668697e-6,AD-enriched,AD-supported,2
+Cerebrovascular cells,Arterial,Cerebrovascular | Arterial,2,0,2,-2.95449813026665,0.00567245871634322,CN-enriched,-0.0089445110648434,0.00830111430752952,CN-enriched,Convergent CN,3
+Cerebrovascular cells,SMC,Cerebrovascular | SMC,19,0,19,-2.784396844483074,8.5158840796318e-4,CN-enriched,0.00316907862986762,0.248727040169191,Not significant,CN-supported,4
+Astrocytes,Homeostatic,Astrocytes | Homeostatic,11,1,10,-1.5430122995143962,1.6509133543695e-4,CN-enriched,-0.0194847583025326,0.0662224516558263,CN trend,CN-supported,4
+Microglia,Homeostatic,Microglia | Homeostatic,0,0,0,NA,0.196670727730185,Not significant,0.00332512282960473,0.248727040169191,Not significant,Not prioritized,5

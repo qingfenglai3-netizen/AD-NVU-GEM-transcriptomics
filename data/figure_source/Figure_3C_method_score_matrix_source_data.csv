@@ -1,0 +1,43 @@
+"celltype","method","score"
+"Oligodendrocytes","AddModuleScore",0.490003122479294
+"Oligodendrocytes","AUCell",0.4311660038725
+"Oligodendrocytes","UCell",0.428704634988492
+"Oligodendrocytes","singscore",0.214678615558356
+"Oligodendrocytes","ssGSEA",0.713723081275636
+"Oligodendrocytes","Combined",0.455655091634855
+"Excitatory","AddModuleScore",0.191345748320045
+"Excitatory","AUCell",0.170215824948716
+"Excitatory","UCell",0.166037707390177
+"Excitatory","singscore",0.236538974331384
+"Excitatory","ssGSEA",0.273150172558143
+"Excitatory","Combined",0.207457685509693
+"Inhibitory","AddModuleScore",0.260673268330378
+"Inhibitory","AUCell",0.224004818083664
+"Inhibitory","UCell",0.217638343510093
+"Inhibitory","singscore",0.206256643872148
+"Inhibitory","ssGSEA",0.39050238731998
+"Inhibitory","Combined",0.259815092223252
+"Astrocytes","AddModuleScore",0.630255344855194
+"Astrocytes","AUCell",0.559286300577124
+"Astrocytes","UCell",0.548873950746993
+"Astrocytes","singscore",0.352772500512359
+"Astrocytes","ssGSEA",0.865576800281535
+"Astrocytes","Combined",0.591352979394641
+"Microglia","AddModuleScore",0.398794349108308
+"Microglia","AUCell",0.322178125799032
+"Microglia","UCell",0.313502447432022
+"Microglia","singscore",0.163940114380389
+"Microglia","ssGSEA",0.680008013171043
+"Microglia","Combined",0.375684609978159
+"OPCs","AddModuleScore",0.420887880117692
+"OPCs","AUCell",0.360379540693643
+"OPCs","UCell",0.351602300265687
+"OPCs","singscore",0.268477070694871
+"OPCs","ssGSEA",0.627839263420515
+"OPCs","Combined",0.405837211038482
+"Cerebrovascular cells","AddModuleScore",0.560506713710593
+"Cerebrovascular cells","AUCell",0.465228505518775
+"Cerebrovascular cells","UCell",0.451143876955388
+"Cerebrovascular cells","singscore",0.267285191929025
+"Cerebrovascular cells","ssGSEA",0.879090226729907
+"Cerebrovascular cells","Combined",0.524650902968738

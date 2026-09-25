@@ -1,0 +1,8 @@
+step,n_rows,n_ligands,n_pairs
+LIANA AD pooled output,112803,502,2087
+LIANA CN pooled output,127419,504,2093
+Outer join AD and CN,137957,514,2137
+Exclude arterial contexts,122845,512,2130
+At least100 source and receiver nuclei in both groups,107902,510,2110
+Positive AD minus CN glia to vascular edges,2878,220,629
+Ligands covered by NicheNet prior,2613,186,580

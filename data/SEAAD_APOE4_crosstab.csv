@@ -1,0 +1,17 @@
+dataset,carrier,disease,n
+DLPFC_Endothelial,0.0,dementia,24
+DLPFC_Endothelial,0.0,normal,33
+DLPFC_Endothelial,1.0,dementia,15
+DLPFC_Endothelial,1.0,normal,8
+DLPFC_VLMC,0.0,dementia,24
+DLPFC_VLMC,0.0,normal,33
+DLPFC_VLMC,1.0,dementia,15
+DLPFC_VLMC,1.0,normal,8
+MTG_Endothelial,0.0,dementia,24
+MTG_Endothelial,0.0,normal,31
+MTG_Endothelial,1.0,dementia,16
+MTG_Endothelial,1.0,normal,8
+MTG_VLMC,0.0,dementia,26
+MTG_VLMC,0.0,normal,33
+MTG_VLMC,1.0,dementia,16
+MTG_VLMC,1.0,normal,9

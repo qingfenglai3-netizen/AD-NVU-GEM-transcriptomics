@@ -1,0 +1,11 @@
+{
+  "python": "3.11.9",
+  "sklearn": "1.5.2",
+  "input_tar_sha256": "f13f8b565230403684a9ff0658b38ac0dd49d682df949b5cd9fceb6a1d88e3ec",
+  "frozen_spec_sha256": "0e19d60d264681e9d57c95c1fe7ddee478500dce139a2bb874ec6e14fda6e7c5",
+  "all19genes_all289samples_complete": true,
+  "n_unique_donors": 289,
+  "existing_benchmark_max_probability_difference": 1.504632769052528e-34,
+  "GSE118553_auc": 0.8186666666666665,
+  "analysis_scope": "Additional exploratory cross-platform and brain-region transfer; donor overlap with discovery not established from sample IDs alone"
+}

@@ -1,0 +1,2942 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "79651",
+      "151258",
+      "5159",
+      "5745",
+      "1607",
+      "2262",
+      "220441",
+      "2918",
+      "6539",
+      "8821",
+      "1368",
+      "152330",
+      "10052",
+      "27115",
+      "51196",
+      "2913",
+      "1285",
+      "775",
+      "2669"
+    ],
+    "79651": {
+      "uid": "79651",
+      "name": "RHBDF2",
+      "description": "rhomboid 5 homolog 2",
+      "status": "",
+      "currentid": "",
+      "chromosome": "17",
+      "geneticsource": "genomic",
+      "maplocation": "17q25.1",
+      "otheraliases": "RHBDL5, RHBDL6, TOC, TOCG, iRhom2",
+      "otherdesignations": "inactive rhomboid protein 2|rhomboid family member 2|rhomboid veinlet-like protein 5|rhomboid veinlet-like protein 6",
+      "nomenclaturesymbol": "RHBDF2",
+      "nomenclaturename": "rhomboid 5 homolog 2",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "614404"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "17",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501426,
+          "chrstop": 76470892,
+          "exoncount": 21
+        }
+      ],
+      "geneweight": 2638,
+      "summary": "Predicted to enable protein transporter activity. Predicted to be involved in several processes, including hair follicle morphogenesis; negative regulation of protein secretion; and regulation of signal transduction. Predicted to act upstream of or within protein localization to plasma membrane. Located in plasma membrane. Implicated in palmoplantar keratoderma-esophageal carcinoma syndrome. [provided by Alliance of Genome Resources, Jun 2026]",
+      "chrsort": "17",
+      "chrstart": 76470892,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501426,
+          "chrstop": 76470892
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 77398037,
+          "chrstop": 77367468
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501426,
+          "chrstop": 76470892
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 77398037,
+          "chrstop": 77367468
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501426,
+          "chrstop": 76470892
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 77398037,
+          "chrstop": 77367468
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501426,
+          "chrstop": 76470892
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 77398037,
+          "chrstop": 77367468
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501426,
+          "chrstop": 76470892
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 77398027,
+          "chrstop": 77367468
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000017.11",
+          "chrstart": 76501439,
+          "chrstop": 76470892
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000017.10",
+          "chrstart": 74497508,
+          "chrstop": 74466974
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000017.10",
+          "chrstart": 74497508,
+          "chrstop": 74466974
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000017.10",
+          "chrstart": 74497508,
+          "chrstop": 74466974
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000149.1",
+          "chrstart": 69925080,
+          "chrstop": 69894876
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018928.2",
+          "chrstart": 74562481,
+          "chrstop": 74531974
+        }
+      ]
+    },
+    "151258": {
+      "uid": "151258",
+      "name": "SLC38A11",
+      "description": "solute carrier family 38 member 11",
+      "status": "",
+      "currentid": "",
+      "chromosome": "2",
+      "geneticsource": "genomic",
+      "maplocation": "2q24.3",
+      "otheraliases": "AVT2",
+      "otherdesignations": "putative sodium-coupled neutral amino acid transporter 11",
+      "nomenclaturesymbol": "SLC38A11",
+      "nomenclaturename": "solute carrier family 38 member 11",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "616526"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "2",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353,
+          "exoncount": 14
+        }
+      ],
+      "geneweight": 261,
+      "summary": "Predicted to enable L-amino acid transmembrane transporter activity. Predicted to be involved in amino acid transmembrane transport. Predicted to be active in membrane. [provided by Alliance of Genome Resources, Jul 2025]",
+      "chrsort": "02",
+      "chrstart": 164894353,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 165412859,
+          "chrstop": 165351704
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 165412859,
+          "chrstop": 165351704
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 165412859,
+          "chrstop": 165351704
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 165412859,
+          "chrstop": 165351704
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 165412859,
+          "chrstop": 165351704
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000002.12",
+          "chrstart": 164955524,
+          "chrstop": 164894353
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000002.11",
+          "chrstart": 165812034,
+          "chrstop": 165750863
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000002.11",
+          "chrstart": 165812034,
+          "chrstop": 165750863
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000002.11",
+          "chrstart": 165812034,
+          "chrstop": 165754708
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000134.1",
+          "chrstart": 157694471,
+          "chrstop": 157637179
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018913.2",
+          "chrstart": 165817890,
+          "chrstop": 165760571
+        }
+      ]
+    },
+    "5159": {
+      "uid": "5159",
+      "name": "PDGFRB",
+      "description": "platelet derived growth factor receptor beta",
+      "status": "",
+      "currentid": "",
+      "chromosome": "5",
+      "geneticsource": "genomic",
+      "maplocation": "5q32",
+      "otheraliases": "CD140B, IBGC4, IMF1, JTK12, KOGS, OPDKD, PDGFR, PDGFR-1, PDGFR1, PENTT",
+      "otherdesignations": "platelet-derived growth factor receptor beta|Activated tyrosine kinase PDGFRB|CD140 antigen-like family member B|PDGF-R-beta|PDGFR-beta|beta-type platelet-derived growth factor receptor|platelet-derived growth factor receptor 1|platelet-derived growth factor receptor, beta polypeptide",
+      "nomenclaturesymbol": "PDGFRB",
+      "nomenclaturename": "platelet derived growth factor receptor beta",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "173410"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "5",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838,
+          "exoncount": 24
+        }
+      ],
+      "geneweight": 28456,
+      "summary": "The protein encoded by this gene is a cell surface tyrosine kinase receptor for members of the platelet-derived growth factor family. These growth factors are mitogens for cells of mesenchymal origin. The identity of the growth factor bound to a receptor monomer determines whether the functional receptor is a homodimer (PDGFB or PDGFD) or a heterodimer (PDGFA and PDGFB). This gene is essential for normal development of the cardiovascular system and aids in rearrangement of the actin cytoskeleton. This gene is flanked on chromosome 5 by the genes for granulocyte-macrophage colony-stimulating factor and macrophage-colony stimulating factor receptor; all three genes may be implicated in the 5-q syndrome. A translocation between chromosomes 5 and 12, that fuses this gene to that of the ETV6 gene, results in chronic myeloproliferative disorder with eosinophilia. [provided by RefSeq, Aug 2017]",
+      "chrsort": "05",
+      "chrstart": 150113838,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060929.1",
+          "chrstart": 150692447,
+          "chrstop": 150650430
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060929.1",
+          "chrstart": 150692447,
+          "chrstop": 150650430
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060929.1",
+          "chrstart": 150692447,
+          "chrstop": 150650430
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060929.1",
+          "chrstart": 150692447,
+          "chrstop": 150650430
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060929.1",
+          "chrstart": 150692447,
+          "chrstop": 150650430
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000005.10",
+          "chrstart": 150155844,
+          "chrstop": 150113838
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000005.9",
+          "chrstart": 149535407,
+          "chrstop": 149493401
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000005.9",
+          "chrstart": 149535407,
+          "chrstop": 149493401
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000005.9",
+          "chrstart": 149535446,
+          "chrstop": 149493401
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000137.1",
+          "chrstart": 144683475,
+          "chrstop": 144641380
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018916.2",
+          "chrstart": 148968002,
+          "chrstop": 148925982
+        }
+      ]
+    },
+    "5745": {
+      "uid": "5745",
+      "name": "PTH1R",
+      "description": "parathyroid hormone 1 receptor",
+      "status": "",
+      "currentid": "",
+      "chromosome": "3",
+      "geneticsource": "genomic",
+      "maplocation": "3p21.31",
+      "otheraliases": "EKNS, PFE, PTHR, PTHR1",
+      "otherdesignations": "parathyroid hormone/parathyroid hormone-related peptide receptor|PTH/PTHr receptor|PTH/PTHrP type I receptor|PTH1 receptor|parathyroid hormone receptor 1|parathyroid hormone/parathyroid hormone-related protein receptor|seven transmembrane helix receptor",
+      "nomenclaturesymbol": "PTH1R",
+      "nomenclaturename": "parathyroid hormone 1 receptor",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "168468"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "3",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877720,
+          "chrstop": 46903798,
+          "exoncount": 18
+        }
+      ],
+      "geneweight": 15796,
+      "summary": "The protein encoded by this gene is a member of the G-protein coupled receptor family 2. This protein is a receptor for parathyroid hormone (PTH) and for parathyroid hormone-like hormone (PTHLH). The activity of this receptor is mediated by G proteins which activate adenylyl cyclase and also a phosphatidylinositol-calcium second messenger system. Defects in this receptor are known to be the cause of Jansen's metaphyseal chondrodysplasia (JMC), chondrodysplasia Blomstrand type (BOCD), as well as enchodromatosis. Two transcript variants encoding the same protein have been found for this gene. [provided by RefSeq, May 2010]",
+      "chrsort": "03",
+      "chrstart": 46877720,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877720,
+          "chrstop": 46903798
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 46894118,
+          "chrstop": 46920190
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877720,
+          "chrstop": 46903798
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 46894118,
+          "chrstop": 46920190
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877720,
+          "chrstop": 46903798
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 46894118,
+          "chrstop": 46920190
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877720,
+          "chrstop": 46903798
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 46894118,
+          "chrstop": 46920190
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877720,
+          "chrstop": 46903798
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 46894118,
+          "chrstop": 46920190
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000003.12",
+          "chrstart": 46877688,
+          "chrstop": 46903798
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000003.11",
+          "chrstart": 46919210,
+          "chrstop": 46945288
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000003.11",
+          "chrstart": 46919210,
+          "chrstop": 46945288
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000003.11",
+          "chrstart": 46919235,
+          "chrstop": 46945288
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000135.1",
+          "chrstart": 46962339,
+          "chrstop": 46988375
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018914.2",
+          "chrstart": 46869335,
+          "chrstop": 46895384
+        }
+      ]
+    },
+    "1607": {
+      "uid": "1607",
+      "name": "DGKB",
+      "description": "diacylglycerol kinase beta",
+      "status": "",
+      "currentid": "",
+      "chromosome": "7",
+      "geneticsource": "genomic",
+      "maplocation": "7p21.2",
+      "otheraliases": "DAGK2, DGK, DGK-BETA",
+      "otherdesignations": "diacylglycerol kinase beta|90 kDa diacylglycerol kinase|DAG kinase beta|diacylglycerol kinase, beta 90kDa|diglyceride kinase beta",
+      "nomenclaturesymbol": "DGKB",
+      "nomenclaturename": "diacylglycerol kinase beta",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "604070"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "7",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048,
+          "exoncount": 32
+        }
+      ],
+      "geneweight": 931,
+      "summary": "Diacylglycerol kinases (DGKs) are regulators of the intracellular concentration of the second messenger diacylglycerol (DAG) and thus play a key role in cellular processes. Nine mammalian isotypes have been identified, which are encoded by separate genes. Mammalian DGK isozymes contain a conserved catalytic (kinase) domain and a cysteine-rich domain (CRD). The protein encoded by this gene is a diacylglycerol kinase, beta isotype. Several alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Apr 2017]",
+      "chrsort": "07",
+      "chrstart": 14145048,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 15107586,
+          "chrstop": 14277078
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 15107586,
+          "chrstop": 14277078
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 15107586,
+          "chrstop": 14277078
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 15107586,
+          "chrstop": 14277078
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 15107586,
+          "chrstop": 14277078
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000007.14",
+          "chrstart": 14974857,
+          "chrstop": 14145048
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 15014482,
+          "chrstop": 14184673
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 15014482,
+          "chrstop": 14184673
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 14943280,
+          "chrstop": 14184673
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002135.2",
+          "chraccver": "AC_000068.1",
+          "chrstart": 14932595,
+          "chrstop": 14235561
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000139.1",
+          "chrstart": 14764851,
+          "chrstop": 14066965
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018918.2",
+          "chrstart": 14880670,
+          "chrstop": 14184410
+        }
+      ]
+    },
+    "2262": {
+      "uid": "2262",
+      "name": "GPC5",
+      "description": "glypican 5",
+      "status": "",
+      "currentid": "",
+      "chromosome": "13",
+      "geneticsource": "genomic",
+      "maplocation": "13q31.3",
+      "otheraliases": "",
+      "otherdesignations": "glypican-5|bA93M14.1|glypican proteoglycan 5",
+      "nomenclaturesymbol": "GPC5",
+      "nomenclaturename": "glypican 5",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "602446"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "13",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236,
+          "exoncount": 14
+        }
+      ],
+      "geneweight": 3730,
+      "summary": "Cell surface heparan sulfate proteoglycans are composed of a membrane-associated protein core substituted with a variable number of heparan sulfate chains. Members of the glypican-related integral membrane proteoglycan family (GRIPS) contain a core protein anchored to the cytoplasmic membrane via a glycosyl phosphatidylinositol linkage.  These proteins may play a role in the control of cell division and growth regulation. [provided by RefSeq, Jul 2008]",
+      "chrsort": "13",
+      "chrstart": 91398620,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060937.1",
+          "chrstart": 90601153,
+          "chrstop": 92070907
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060937.1",
+          "chrstart": 90601153,
+          "chrstop": 92070907
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060937.1",
+          "chrstart": 90601153,
+          "chrstop": 92070907
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060937.1",
+          "chrstart": 90601153,
+          "chrstop": 92070907
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060937.1",
+          "chrstart": 90601153,
+          "chrstop": 92070907
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000013.11",
+          "chrstart": 91398620,
+          "chrstop": 92867236
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000013.10",
+          "chrstart": 92050874,
+          "chrstop": 93519489
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000013.10",
+          "chrstart": 92050874,
+          "chrstop": 93519489
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000013.10",
+          "chrstart": 92050934,
+          "chrstop": 93519489
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000145.1",
+          "chrstart": 72646701,
+          "chrstop": 74116007
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018924.2",
+          "chrstart": 92019540,
+          "chrstop": 93489119
+        }
+      ]
+    },
+    "220441": {
+      "uid": "220441",
+      "name": "RNF152",
+      "description": "ring finger protein 152",
+      "status": "",
+      "currentid": "",
+      "chromosome": "18",
+      "geneticsource": "genomic",
+      "maplocation": "18q21.33",
+      "otheraliases": "",
+      "otherdesignations": "E3 ubiquitin-protein ligase RNF152|RING-type E3 ubiquitin transferase RNF152",
+      "nomenclaturesymbol": "RNF152",
+      "nomenclaturename": "ring finger protein 152",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "616512"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "18",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894411,
+          "chrstop": 61808066,
+          "exoncount": 7
+        }
+      ],
+      "geneweight": 856,
+      "summary": "Enables small GTPase binding activity and ubiquitin protein ligase activity. Involved in several processes, including cellular response to amino acid starvation; negative regulation of TORC1 signaling; and protein ubiquitination. Located in lysosomal membrane. [provided by Alliance of Genome Resources, Jul 2025]",
+      "chrsort": "18",
+      "chrstart": 61808066,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894411,
+          "chrstop": 61808066
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060942.1",
+          "chrstart": 62098285,
+          "chrstop": 62011909
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894411,
+          "chrstop": 61808066
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060942.1",
+          "chrstart": 62098285,
+          "chrstop": 62011909
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894411,
+          "chrstop": 61808066
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060942.1",
+          "chrstart": 62098285,
+          "chrstop": 62011909
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894411,
+          "chrstop": 61808066
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060942.1",
+          "chrstart": 62098285,
+          "chrstop": 62011909
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894411,
+          "chrstop": 61808066
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060942.1",
+          "chrstart": 62096845,
+          "chrstop": 62011909
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000018.10",
+          "chrstart": 61894419,
+          "chrstop": 61808066
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000018.9",
+          "chrstart": 59560239,
+          "chrstop": 59475299
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000018.9",
+          "chrstart": 59560239,
+          "chrstop": 59475299
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000018.9",
+          "chrstart": 59561633,
+          "chrstop": 59475299
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000150.1",
+          "chrstart": 56270118,
+          "chrstop": 56192126
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018929.2",
+          "chrstart": 59555897,
+          "chrstop": 59477932
+        }
+      ]
+    },
+    "2918": {
+      "uid": "2918",
+      "name": "GRM8",
+      "description": "glutamate metabotropic receptor 8",
+      "status": "",
+      "currentid": "",
+      "chromosome": "7",
+      "geneticsource": "genomic",
+      "maplocation": "7q31.33",
+      "otheraliases": "GLUR8, GPRC1H, MGLUR8, mGlu8",
+      "otherdesignations": "metabotropic glutamate receptor 8|glutamate receptor, metabotropic 8",
+      "nomenclaturesymbol": "GRM8",
+      "nomenclaturename": "glutamate metabotropic receptor 8",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "601116"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "7",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597,
+          "exoncount": 26
+        }
+      ],
+      "geneweight": 1466,
+      "summary": "L-glutamate is the major excitatory neurotransmitter in the central nervous system and activates both ionotropic and metabotropic glutamate receptors. Glutamatergic neurotransmission is involved in most aspects of normal brain function and can be perturbed in many neuropathologic conditions. The metabotropic glutamate receptors are a family of G protein-coupled receptors, that have been divided into 3 groups on the basis of sequence homology, putative signal transduction mechanisms, and pharmacologic properties. Group I includes GRM1 and GRM5 and these receptors have been shown to activate phospholipase C. Group II includes GRM2 and GRM3 while Group III includes GRM4, GRM6, GRM7 and GRM8. Group II and III receptors are linked to the inhibition of the cyclic AMP cascade but differ in their agonist selectivities. Alternatively spliced transcript variants encoding different isoforms have been described for this gene. [provided by RefSeq, Jul 2008]",
+      "chrsort": "07",
+      "chrstart": 126438597,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 128564613,
+          "chrstop": 127750295
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 128564613,
+          "chrstop": 127750295
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 128564613,
+          "chrstop": 127750295
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 128564613,
+          "chrstop": 127750295
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 128564613,
+          "chrstop": 127750295
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000007.14",
+          "chrstart": 127252940,
+          "chrstop": 126438597
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 126892994,
+          "chrstop": 126078651
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 126892994,
+          "chrstop": 126078651
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 126892427,
+          "chrstop": 126078651
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002135.2",
+          "chraccver": "AC_000068.1",
+          "chrstart": 126275857,
+          "chrstop": 125461721
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000139.1",
+          "chrstart": 121253103,
+          "chrstop": 120438960
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018918.2",
+          "chrstart": 126825736,
+          "chrstop": 126006511
+        }
+      ]
+    },
+    "6539": {
+      "uid": "6539",
+      "name": "SLC6A12",
+      "description": "solute carrier family 6 member 12",
+      "status": "",
+      "currentid": "",
+      "chromosome": "12",
+      "geneticsource": "genomic",
+      "maplocation": "12p13.33",
+      "otheraliases": "BGT-1, BGT1, GAT2",
+      "otherdesignations": "sodium- and chloride-dependent betaine transporter|Na(+)/Cl(-) betaine/GABA transporter|betaine/GABA transporter-1|gamma-aminobutyric acid transporter|solute carrier family 6 (neurotransmitter transporter), member 12|solute carrier family 6 (neurotransmitter transporter, betaine/GABA), member 12",
+      "nomenclaturesymbol": "SLC6A12",
+      "nomenclaturename": "solute carrier family 6 member 12",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "603080"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "12",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 183847,
+          "exoncount": 21
+        }
+      ],
+      "geneweight": 1120,
+      "summary": "Enables gamma-aminobutyric acid:sodium:chloride symporter activity. Involved in gamma-aminobutyric acid transport and monocarboxylic acid transport. Predicted to be located in basolateral plasma membrane. Predicted to be active in plasma membrane. [provided by Alliance of Genome Resources, Jun 2026]",
+      "chrsort": "12",
+      "chrstart": 183847,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 183847
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 211077,
+          "chrstop": 179875
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 183847
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 211077,
+          "chrstop": 179875
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 183847
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 211077,
+          "chrstop": 179875
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 183847
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 211077,
+          "chrstop": 179875
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 183847
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 211077,
+          "chrstop": 186071
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000012.12",
+          "chrstart": 214156,
+          "chrstop": 190080
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 323322,
+          "chrstop": 299246
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 323322,
+          "chrstop": 299246
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 323739,
+          "chrstop": 299242
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000144.1",
+          "chrstart": 176482,
+          "chrstop": 151964
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018923.2",
+          "chrstart": 322360,
+          "chrstop": 298190
+        }
+      ]
+    },
+    "8821": {
+      "uid": "8821",
+      "name": "INPP4B",
+      "description": "inositol polyphosphate-4-phosphatase type II B",
+      "status": "",
+      "currentid": "",
+      "chromosome": "4",
+      "geneticsource": "genomic",
+      "maplocation": "4q31.21",
+      "otheraliases": "",
+      "otherdesignations": "inositol polyphosphate 4-phosphatase type II|inositol polyphosphate 4-phosphatase II; 4-phosphatase II|inositol polyphosphate-4-phosphatase, type II, 105kDa|type II inositol 3,4-bisphosphate 4-phosphatase",
+      "nomenclaturesymbol": "INPP4B",
+      "nomenclaturename": "inositol polyphosphate-4-phosphatase type II B",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "607494"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "4",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159,
+          "exoncount": 50
+        }
+      ],
+      "geneweight": 2961,
+      "summary": "INPP4B encodes the inositol polyphosphate 4-phosphatase type II, one of the enzymes involved in phosphatidylinositol signaling pathways. This enzyme removes the phosphate group at position 4 of the inositol ring from inositol 3,4-bisphosphate. There is limited data to suggest that the human type II enzyme is subject to alternative splicing, as has been established for the type I enzyme. [provided by RefSeq, Jul 2008]",
+      "chrsort": "04",
+      "chrstart": 142023159,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060928.1",
+          "chrstart": 146163745,
+          "chrstop": 145340543
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060928.1",
+          "chrstart": 146163745,
+          "chrstop": 145340543
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060928.1",
+          "chrstart": 146163745,
+          "chrstop": 145340543
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060928.1",
+          "chrstart": 146163745,
+          "chrstop": 145340543
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060928.1",
+          "chrstart": 146163745,
+          "chrstop": 145340543
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000004.12",
+          "chrstart": 142846534,
+          "chrstop": 142023159
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000004.11",
+          "chrstart": 143767687,
+          "chrstop": 142944312
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000004.11",
+          "chrstart": 143767687,
+          "chrstop": 142944312
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000004.11",
+          "chrstart": 143767603,
+          "chrstop": 142949180
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000136.1",
+          "chrstart": 139496965,
+          "chrstop": 138678403
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018915.2",
+          "chrstart": 143744865,
+          "chrstop": 142926559
+        }
+      ]
+    },
+    "1368": {
+      "uid": "1368",
+      "name": "CPM",
+      "description": "carboxypeptidase M",
+      "status": "",
+      "currentid": "",
+      "chromosome": "12",
+      "geneticsource": "genomic",
+      "maplocation": "12q15",
+      "otheraliases": "",
+      "otherdesignations": "carboxypeptidase M|renal carboxypeptidase|urinary carboxypeptidase B",
+      "nomenclaturesymbol": "CPM",
+      "nomenclaturename": "carboxypeptidase M",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "114860"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "12",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842196,
+          "exoncount": 14
+        }
+      ],
+      "geneweight": 2103,
+      "summary": "The protein encoded by this gene is a membrane-bound arginine/lysine carboxypeptidase. Its expression is associated with monocyte to macrophage differentiation. This encoded protein contains hydrophobic regions at the amino and carboxy termini and has 6 potential asparagine-linked glycosylation sites. The active site residues of carboxypeptidases A and B are conserved in this protein. Three alternatively spliced transcript variants encoding the same protein have been described for this gene. [provided by RefSeq, Jul 2008]",
+      "chrsort": "12",
+      "chrstart": 68842196,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842196
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 68943047,
+          "chrstop": 68821775
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842196
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 68943047,
+          "chrstop": 68821775
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842196
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 68943047,
+          "chrstop": 68821775
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842196
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 68943047,
+          "chrstop": 68821775
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842196
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 68943047,
+          "chrstop": 68830753
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000012.12",
+          "chrstart": 68963468,
+          "chrstop": 68842192
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 69357248,
+          "chrstop": 69235976
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 69357248,
+          "chrstop": 69244954
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 69357019,
+          "chrstop": 69244954
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000144.1",
+          "chrstart": 66407538,
+          "chrstop": 66295533
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018923.2",
+          "chrstart": 69325635,
+          "chrstop": 69213547
+        }
+      ]
+    },
+    "152330": {
+      "uid": "152330",
+      "name": "CNTN4",
+      "description": "contactin 4",
+      "status": "",
+      "currentid": "",
+      "chromosome": "3",
+      "geneticsource": "genomic",
+      "maplocation": "3p26.3-p26.2",
+      "otheraliases": "AXCAM, BIG-2",
+      "otherdesignations": "contactin-4|axonal-associated cell adhesion molecule|brain-derived immunoglobulin superfamily protein 2|neural cell adhesion protein BIG-2",
+      "nomenclaturesymbol": "CNTN4",
+      "nomenclaturename": "contactin 4",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "607280"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "3",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3057958,
+          "exoncount": 38
+        }
+      ],
+      "geneweight": 2353,
+      "summary": "This gene encodes a member of the contactin family of immunoglobulins. Contactins are axon-associated cell adhesion molecules that function in neuronal network formation and plasticity. The encoded protein is a glycosylphosphatidylinositol-anchored neuronal membrane protein that may play a role in the formation of axon connections in the developing nervous system. Deletion or mutation of this gene may play a role in 3p deletion syndrome and autism spectrum disorders. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2011]",
+      "chrsort": "03",
+      "chrstart": 2098865,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3057958
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 2092771,
+          "chrstop": 3052282
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3057958
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 2092771,
+          "chrstop": 3052282
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3057958
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 2092771,
+          "chrstop": 3052282
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3057958
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 2092771,
+          "chrstop": 3052282
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3057958
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060927.1",
+          "chrstart": 2092771,
+          "chrstop": 3052282
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000003.12",
+          "chrstart": 2098865,
+          "chrstop": 3059079
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000003.11",
+          "chrstart": 2140549,
+          "chrstop": 3099642
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000003.11",
+          "chrstart": 2140549,
+          "chrstop": 3099642
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000003.11",
+          "chrstart": 2140549,
+          "chrstop": 3099644
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000135.1",
+          "chrstart": 2074436,
+          "chrstop": 3033829
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018914.2",
+          "chrstart": 2090534,
+          "chrstop": 3049635
+        }
+      ]
+    },
+    "10052": {
+      "uid": "10052",
+      "name": "GJC1",
+      "description": "gap junction protein gamma 1",
+      "status": "",
+      "currentid": "",
+      "chromosome": "17",
+      "geneticsource": "genomic",
+      "maplocation": "17q21.31",
+      "otheraliases": "CX45, GJA7",
+      "otherdesignations": "gap junction gamma-1 protein|CTC-296K1.4|connexin-45|gap junction alpha-7 protein|gap junction protein, gamma 1, 45kDa",
+      "nomenclaturesymbol": "GJC1",
+      "nomenclaturename": "gap junction protein gamma 1",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "608655"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "17",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794103,
+          "exoncount": 11
+        }
+      ],
+      "geneweight": 1589,
+      "summary": "This gene is a member of the connexin gene family. The encoded protein is a component of gap junctions, which are composed of arrays of intercellular channels that provide a route for the diffusion of low molecular weight materials from cell to cell. Alternatively spliced transcript variants encoding the same isoform have been described. [provided by RefSeq, Jul 2008]",
+      "chrsort": "17",
+      "chrstart": 44794103,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794103
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 45685305,
+          "chrstop": 45648940
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794103
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 45685305,
+          "chrstop": 45648940
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794103
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 45685305,
+          "chrstop": 45648940
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794103
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 45685305,
+          "chrstop": 45648940
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794103
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060941.1",
+          "chrstart": 45684775,
+          "chrstop": 45652398
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000017.11",
+          "chrstart": 44831363,
+          "chrstop": 44794987
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000017.10",
+          "chrstart": 42908201,
+          "chrstop": 42875815
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000017.10",
+          "chrstart": 42908201,
+          "chrstop": 42875815
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000017.10",
+          "chrstart": 42908178,
+          "chrstop": 42875815
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000149.1",
+          "chrstart": 38673262,
+          "chrstop": 38640949
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018928.2",
+          "chrstart": 43144317,
+          "chrstop": 43111946
+        }
+      ]
+    },
+    "27115": {
+      "uid": "27115",
+      "name": "PDE7B",
+      "description": "phosphodiesterase 7B",
+      "status": "",
+      "currentid": "",
+      "chromosome": "6",
+      "geneticsource": "genomic",
+      "maplocation": "6q23.3",
+      "otheraliases": "bA472E5.1",
+      "otherdesignations": "3',5'-cyclic-AMP phosphodiesterase 7B|cAMP-specific 3',5'-cyclic phosphodiesterase 7B|cAMP-specific phosphodiesterase 7B|high-affinity cAMP-specific 3',5'-cyclic phosphodiesterase|rolipram-insensitive phosphodiesterase type 7",
+      "nomenclaturesymbol": "PDE7B",
+      "nomenclaturename": "phosphodiesterase 7B",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "604645"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "6",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573,
+          "exoncount": 13
+        }
+      ],
+      "geneweight": 1268,
+      "summary": "The 3',5'-cyclic nucleotides cAMP and cGMP function as second messengers in a wide variety of signal transduction pathways. 3',5'-cyclic nucleotide phosphodiesterases (PDEs) catalyze the hydrolysis of cAMP and cGMP to the corresponding 5'-monophosphates and provide a mechanism to downregulate cAMP and cGMP signaling. This gene encodes a cAMP-specific phosphodiesterase, a member of the cyclic nucleotide phosphodiesterase family.[provided by RefSeq, Apr 2009]",
+      "chrsort": "06",
+      "chrstart": 135851700,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060930.1",
+          "chrstart": 137039965,
+          "chrstop": 137383687
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060930.1",
+          "chrstart": 137039965,
+          "chrstop": 137383687
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060930.1",
+          "chrstart": 137039965,
+          "chrstop": 137383687
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060930.1",
+          "chrstart": 137039965,
+          "chrstop": 137383687
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060930.1",
+          "chrstart": 137039965,
+          "chrstop": 137383687
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000006.12",
+          "chrstart": 135851700,
+          "chrstop": 136195573
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000006.11",
+          "chrstart": 136172838,
+          "chrstop": 136516711
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000006.11",
+          "chrstart": 136172838,
+          "chrstop": 136516711
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000006.11",
+          "chrstart": 136172833,
+          "chrstop": 136516708
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000138.1",
+          "chrstart": 133737119,
+          "chrstop": 134081399
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018917.2",
+          "chrstart": 136435325,
+          "chrstop": 136779228
+        }
+      ]
+    },
+    "51196": {
+      "uid": "51196",
+      "name": "PLCE1",
+      "description": "phospholipase C epsilon 1",
+      "status": "",
+      "currentid": "",
+      "chromosome": "10",
+      "geneticsource": "genomic",
+      "maplocation": "10q23.33",
+      "otheraliases": "NPHS3, PLCE, PPLC",
+      "otherdesignations": "1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1|PLC-epsilon-1|pancreas-enriched phospholipase C|phosphoinositide phospholipase C|phosphoinositide phospholipase C-epsilon-1|phosphoinositide-specific phospholipase C epsilon-1",
+      "nomenclaturesymbol": "PLCE1",
+      "nomenclaturename": "phospholipase C epsilon 1",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "608414"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "10",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822,
+          "exoncount": 39
+        }
+      ],
+      "geneweight": 7471,
+      "summary": "This gene encodes a phospholipase enzyme that catalyzes the hydrolysis of phosphatidylinositol-4,5-bisphosphate to generate two second messengers: inositol 1,4,5-triphosphate (IP3) and diacylglycerol (DAG). These second messengers subsequently regulate various processes affecting cell growth, differentiation, and gene expression. This enzyme is regulated by small monomeric GTPases of the Ras and Rho families and by heterotrimeric G proteins. In addition to its phospholipase C catalytic activity, this enzyme has an N-terminal domain with guanine nucleotide exchange (GEF) activity. Mutations in this gene cause early-onset nephrotic syndrome; characterized by proteinuria, edema, and diffuse mesangial sclerosis or focal and segmental glomerulosclerosis. Alternative splicing results in multiple transcript variants encoding distinct isoforms.[provided by RefSeq, Sep 2009]",
+      "chrsort": "10",
+      "chrstart": 93993930,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060934.1",
+          "chrstart": 94872906,
+          "chrstop": 95211917
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060934.1",
+          "chrstart": 94872906,
+          "chrstop": 95211917
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060934.1",
+          "chrstart": 94872906,
+          "chrstop": 95211917
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060934.1",
+          "chrstart": 94872906,
+          "chrstop": 95211917
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060934.1",
+          "chrstart": 94873023,
+          "chrstop": 95211917
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000010.11",
+          "chrstart": 93993930,
+          "chrstop": 94332822
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000010.10",
+          "chrstart": 95753687,
+          "chrstop": 96092579
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000010.10",
+          "chrstart": 95753687,
+          "chrstop": 96092579
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000010.10",
+          "chrstart": 95753745,
+          "chrstop": 96088148
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000142.1",
+          "chrstart": 89417739,
+          "chrstop": 89714891
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018921.2",
+          "chrstart": 96072190,
+          "chrstop": 96370189
+        }
+      ]
+    },
+    "2913": {
+      "uid": "2913",
+      "name": "GRM3",
+      "description": "glutamate metabotropic receptor 3",
+      "status": "",
+      "currentid": "",
+      "chromosome": "7",
+      "geneticsource": "genomic",
+      "maplocation": "7q21.11-q21.12",
+      "otheraliases": "GLUR3, GPRC1C, MGLUR3, mGlu3",
+      "otherdesignations": "metabotropic glutamate receptor 3|glutamate receptor, metabotropic 3",
+      "nomenclaturesymbol": "GRM3",
+      "nomenclaturename": "glutamate metabotropic receptor 3",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "601115"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "7",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878,
+          "exoncount": 7
+        }
+      ],
+      "geneweight": 4444,
+      "summary": "L-glutamate is the major excitatory neurotransmitter in the central nervous system and activates both ionotropic and metabotropic glutamate receptors. Glutamatergic neurotransmission is involved in most aspects of normal brain function and can be perturbed in many neuropathologic conditions. The metabotropic glutamate receptors are a family of G protein-coupled receptors, that have been divided into 3 groups on the basis of sequence homology, putative signal transduction mechanisms, and pharmacologic properties. Group I includes GRM1 and GRM5 and these receptors have been shown to activate phospholipase C. Group II includes GRM2 and GRM3 while Group III includes GRM4, GRM6, GRM7 and GRM8. Group II and III receptors are linked to the inhibition of the cyclic AMP cascade but differ in their agonist selectivities. [provided by RefSeq, Jul 2008]",
+      "chrsort": "07",
+      "chrstart": 86643908,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 87893807,
+          "chrstop": 88114780
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 87893807,
+          "chrstop": 88114780
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 87893807,
+          "chrstop": 88114780
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 87893807,
+          "chrstop": 88114780
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060931.1",
+          "chrstart": 87893807,
+          "chrstop": 88114780
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000007.14",
+          "chrstart": 86643908,
+          "chrstop": 86864878
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 86273224,
+          "chrstop": 86494194
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 86273224,
+          "chrstop": 86494194
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000007.13",
+          "chrstart": 86273229,
+          "chrstop": 86494192
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002135.2",
+          "chraccver": "AC_000068.1",
+          "chrstart": 85604961,
+          "chrstop": 85825937
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000139.1",
+          "chrstart": 80884477,
+          "chrstop": 81105435
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018918.2",
+          "chrstart": 86203230,
+          "chrstop": 86424247
+        }
+      ]
+    },
+    "1285": {
+      "uid": "1285",
+      "name": "COL4A3",
+      "description": "collagen type IV alpha 3 chain",
+      "status": "",
+      "currentid": "",
+      "chromosome": "2",
+      "geneticsource": "genomic",
+      "maplocation": "2q36.3",
+      "otheraliases": "ATS2, ATS3, ATS3A, ATS3B, BFH2",
+      "otherdesignations": "collagen alpha-3(IV) chain|collagen IV, alpha-3 polypeptide|collagen, type IV, alpha 3 (Goodpasture antigen)|tumstatin",
+      "nomenclaturesymbol": "COL4A3",
+      "nomenclaturename": "collagen type IV alpha 3 chain",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "120070"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "2",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164623,
+          "chrstop": 227314791,
+          "exoncount": 54
+        }
+      ],
+      "geneweight": 6790,
+      "summary": "Type IV collagen, the major structural component of basement membranes, is a multimeric protein composed of 3 alpha subunits. These subunits are encoded by 6 different genes, alpha 1 through alpha 6, each of which can form a triple helix structure with 2 other subunits to form type IV collagen. This gene encodes alpha 3. In the Goodpasture syndrome, autoantibodies bind to the collagen molecules in the basement membranes of alveoli and glomeruli. The epitopes that elicit these autoantibodies are localized largely to the non-collagenous C-terminal domain of the protein. A specific kinase phosphorylates amino acids in this same C-terminal region and the expression of this kinase is upregulated during pathogenesis. This gene is also linked to an autosomal recessive form of Alport syndrome. The mutations contributing to this syndrome are also located within the exons that encode this C-terminal region. Like the other members of the type IV collagen gene family, this gene is organized in a head-to-head conformation with another type IV collagen gene so that each gene pair shares a common promoter. [provided by RefSeq, Jun 2010]",
+      "chrsort": "02",
+      "chrstart": 227164623,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164623,
+          "chrstop": 227314791
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 227647381,
+          "chrstop": 227797470
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164623,
+          "chrstop": 227314791
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 227647381,
+          "chrstop": 227797470
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164623,
+          "chrstop": 227314791
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 227647381,
+          "chrstop": 227797470
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164623,
+          "chrstop": 227314791
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 227647381,
+          "chrstop": 227797470
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164623,
+          "chrstop": 227314791
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060926.1",
+          "chrstart": 227647381,
+          "chrstop": 227797470
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000002.12",
+          "chrstart": 227164588,
+          "chrstop": 227314791
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000002.11",
+          "chrstart": 228029339,
+          "chrstop": 228179507
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000002.11",
+          "chrstart": 228029339,
+          "chrstop": 228179507
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000002.11",
+          "chrstart": 228029280,
+          "chrstop": 228179507
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000134.1",
+          "chrstart": 219872787,
+          "chrstop": 220022915
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018913.2",
+          "chrstart": 228035473,
+          "chrstop": 228185320
+        }
+      ]
+    },
+    "775": {
+      "uid": "775",
+      "name": "CACNA1C",
+      "description": "calcium voltage-gated channel subunit alpha1 C",
+      "status": "",
+      "currentid": "",
+      "chromosome": "12",
+      "geneticsource": "genomic",
+      "maplocation": "12p13.33",
+      "otheraliases": "CACH2, CACN2, CACNA1C-IT2, CACNL1A1, CCHL1A1, CaV1.2, LQT8, NEDHLSS, TS, TS. LQT8",
+      "otherdesignations": "voltage-dependent L-type calcium channel subunit alpha-1C|CACNA1C intronic transcript 2|CACNA1C intronic transcript 2 (non-protein coding)|DHPR, alpha-1 subunit|calcium channel, cardic dihydropyridine-sensitive, alpha-1 subunit|calcium channel, voltage-dependent, L type, alpha 1C subunit|voltage-dependent L-type Ca2+ channel alpha 1 subunit",
+      "nomenclaturesymbol": "CACNA1C",
+      "nomenclaturename": "calcium voltage-gated channel subunit alpha1 C",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "114205"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "12",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1970779,
+          "chrstop": 2697949,
+          "exoncount": 57
+        }
+      ],
+      "geneweight": 26646,
+      "summary": "This gene encodes an alpha-1 subunit of a voltage-dependent calcium channel. Calcium channels mediate the influx of calcium ions into the cell upon membrane polarization. The alpha-1 subunit consists of 24 transmembrane segments and forms the pore through which ions pass into the cell. The calcium channel consists of a complex of alpha-1, alpha-2/delta, beta, and gamma subunits in a 1:1:1:1 ratio. There are multiple isoforms of each of these proteins, either encoded by different genes or the result of alternative splicing of transcripts. The protein encoded by this gene binds to and is inhibited by dihydropyridine. Alternative splicing results in many transcript variants encoding different proteins. Some of the predicted proteins may not produce functional ion channel subunits. [provided by RefSeq, Oct 2012]",
+      "chrsort": "12",
+      "chrstart": 1970779,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1970779,
+          "chrstop": 2697949
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NW_018654718.1",
+          "chrstart": 311695,
+          "chrstop": 1046065
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 1965665,
+          "chrstop": 2703401
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1970779,
+          "chrstop": 2697949
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NW_018654718.1",
+          "chrstart": 311695,
+          "chrstop": 1046065
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 1965665,
+          "chrstop": 2703401
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1970779,
+          "chrstop": 2697949
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NW_018654718.1",
+          "chrstart": 311695,
+          "chrstop": 1046065
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 1965665,
+          "chrstop": 2703401
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1970779,
+          "chrstop": 2697949
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NW_018654718.1",
+          "chrstart": 311695,
+          "chrstop": 1046065
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 1965665,
+          "chrstop": 2703401
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1970779,
+          "chrstop": 2697949
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NW_018654718.1",
+          "chrstart": 395130,
+          "chrstop": 1046065
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060936.1",
+          "chrstart": 2049112,
+          "chrstop": 2703401
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000012.12",
+          "chrstart": 1969551,
+          "chrstop": 2697949
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NW_018654718.1",
+          "chrstart": 395130,
+          "chrstop": 1046065
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 2162152,
+          "chrstop": 2807115
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 2162152,
+          "chrstop": 2807115
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000012.11",
+          "chrstart": 2079951,
+          "chrstop": 2807114
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000144.1",
+          "chrstart": 2016424,
+          "chrstop": 2664565
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018923.2",
+          "chrstart": 2161407,
+          "chrstop": 2806151
+        }
+      ]
+    },
+    "2669": {
+      "uid": "2669",
+      "name": "GEM",
+      "description": "GTP binding protein overexpressed in skeletal muscle",
+      "status": "",
+      "currentid": "",
+      "chromosome": "8",
+      "geneticsource": "genomic",
+      "maplocation": "8q22.1",
+      "otheraliases": "KIR",
+      "otherdesignations": "GTP-binding protein GEM|GTP-binding mitogen-induced T-cell protein|RAS-like protein KIR|kinase-inducible Ras-like protein",
+      "nomenclaturesymbol": "GEM",
+      "nomenclaturename": "GTP binding protein overexpressed in skeletal muscle",
+      "nomenclaturestatus": "Official",
+      "mim": [
+        "600164"
+      ],
+      "genomicinfo": [
+        {
+          "chrloc": "8",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262318,
+          "chrstop": 94249252,
+          "exoncount": 5
+        }
+      ],
+      "geneweight": 1166,
+      "summary": "The protein encoded by this gene belongs to the RAD/GEM family of GTP-binding proteins. It is associated with the inner face of the plasma membrane and could play a role as a regulatory protein in receptor-mediated signal transduction. Alternative splicing occurs at this locus and two transcript variants encoding the same protein have been identified. [provided by RefSeq, Jul 2008]",
+      "chrsort": "08",
+      "chrstart": 94249252,
+      "organism": {
+        "scientificname": "Homo sapiens",
+        "commonname": "human",
+        "taxid": 9606
+      },
+      "locationhist": [
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262318,
+          "chrstop": 94249252
+        },
+        {
+          "annotationrelease": "RS_2025_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060932.1",
+          "chrstart": 95387191,
+          "chrstop": 95374121
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262318,
+          "chrstop": 94249252
+        },
+        {
+          "annotationrelease": "RS_2024_08",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060932.1",
+          "chrstart": 95387191,
+          "chrstop": 95374121
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262318,
+          "chrstop": 94249252
+        },
+        {
+          "annotationrelease": "RS_2023_10",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060932.1",
+          "chrstart": 95387191,
+          "chrstop": 95374121
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262318,
+          "chrstop": 94249252
+        },
+        {
+          "annotationrelease": "RS_2023_03",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060932.1",
+          "chrstart": 95387191,
+          "chrstop": 95374121
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_000001405.40",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262318,
+          "chrstop": 94249252
+        },
+        {
+          "annotationrelease": "110",
+          "assemblyaccver": "GCF_009914755.1",
+          "chraccver": "NC_060932.1",
+          "chrstart": 95387191,
+          "chrstop": 95374125
+        },
+        {
+          "annotationrelease": "109.20211119",
+          "assemblyaccver": "GCF_000001405.39",
+          "chraccver": "NC_000008.11",
+          "chrstart": 94262344,
+          "chrstop": 94249248
+        },
+        {
+          "annotationrelease": "RS_2024_09",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000008.10",
+          "chrstart": 95274546,
+          "chrstop": 95261480
+        },
+        {
+          "annotationrelease": "105.20220307",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000008.10",
+          "chrstart": 95274546,
+          "chrstop": 95261480
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000001405.25",
+          "chraccver": "NC_000008.10",
+          "chrstart": 95274546,
+          "chrstop": 95261480
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000002125.1",
+          "chraccver": "AC_000140.1",
+          "chrstart": 90483630,
+          "chrstop": 90470564
+        },
+        {
+          "annotationrelease": "105",
+          "assemblyaccver": "GCF_000306695.2",
+          "chraccver": "NC_018919.2",
+          "chrstart": 95314852,
+          "chrstop": 95301786
+        }
+      ]
+    }
+  }
+}
